@@ -488,7 +488,7 @@
             "last_commit": "2022-08-09T02:55:18Z",
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2024-05-10T15:06:37Z",
             "owner": "BICLab",
             "repo": "Spike-Driven-Transformer-V2",
-            "stars": 230
+            "stars": 231
           }
         },
         {
@@ -1140,10 +1140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T05:15:42Z",
+            "last_commit": "2026-08-13T18:23:44Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2098
+            "stars": 2099
           }
         },
         {
@@ -1154,10 +1154,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T05:15:42Z",
+            "last_commit": "2026-08-13T18:23:44Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2098
+            "stars": 2099
           }
         },
         {
@@ -1219,7 +1219,7 @@
             "last_commit": "2026-07-01T07:05:40Z",
             "owner": "genn-team",
             "repo": "genn",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -1230,7 +1230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T10:13:59Z",
+            "last_commit": "2026-08-14T11:58:21Z",
             "owner": "SensorsINI",
             "repo": "jaer",
             "stars": 191
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:28:58.791Z",
+    "last_updated": "2026-08-14T15:13:06.713Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_sha": "1087192a8f512c7da2aff1a0a5e33fe09f237617",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks-Hub",
