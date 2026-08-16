@@ -564,7 +564,7 @@
             "last_commit": "2024-01-23T08:54:58Z",
             "owner": "ZK-Zhou",
             "repo": "spikformer",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -808,7 +808,7 @@
             "last_commit": "2025-05-20T06:33:20Z",
             "owner": "Lvchangze",
             "repo": "SpikeCLIP",
-            "stars": 9
+            "stars": 10
           }
         }
       ],
@@ -1140,10 +1140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:23:44Z",
+            "last_commit": "2026-08-16T13:23:57Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2102
+            "stars": 2103
           }
         },
         {
@@ -1154,10 +1154,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:23:44Z",
+            "last_commit": "2026-08-16T13:23:57Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2102
+            "stars": 2103
           }
         },
         {
@@ -1230,7 +1230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T14:33:55Z",
+            "last_commit": "2026-08-16T14:09:15Z",
             "owner": "SensorsINI",
             "repo": "jaer",
             "stars": 191
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:44:54.277Z",
+    "last_updated": "2026-08-16T14:45:34.284Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_sha": "1087192a8f512c7da2aff1a0a5e33fe09f237617",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks-Hub",
