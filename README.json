@@ -275,7 +275,7 @@
             "last_commit": "2023-12-08T08:49:48Z",
             "owner": "pkuxmq",
             "repo": "OTTT-SNN",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -724,7 +724,7 @@
             "last_commit": "2026-05-14T09:52:16Z",
             "owner": "BICLab",
             "repo": "SpikingBrain-7B",
-            "stars": 1363
+            "stars": 1364
           }
         },
         {
@@ -1140,10 +1140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:23:57Z",
+            "last_commit": "2026-08-17T12:30:31Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2103
+            "stars": 2104
           }
         },
         {
@@ -1154,10 +1154,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:23:57Z",
+            "last_commit": "2026-08-17T12:30:31Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2103
+            "stars": 2104
           }
         },
         {
@@ -1230,7 +1230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T14:09:15Z",
+            "last_commit": "2026-08-17T10:25:49Z",
             "owner": "SensorsINI",
             "repo": "jaer",
             "stars": 191
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:45:34.284Z",
+    "last_updated": "2026-08-17T14:51:12.543Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_sha": "1087192a8f512c7da2aff1a0a5e33fe09f237617",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks-Hub",
