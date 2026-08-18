@@ -43,7 +43,7 @@
             "last_commit": "2024-01-21T11:10:20Z",
             "owner": "fangwei123456",
             "repo": "Parallel-Spiking-Neuron",
-            "stars": 57
+            "stars": 56
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2022-08-09T02:55:18Z",
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-05-10T11:48:24Z",
             "owner": "bic-L",
             "repo": "Masked-Spiking-Transformer",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -724,7 +724,7 @@
             "last_commit": "2026-05-14T09:52:16Z",
             "owner": "BICLab",
             "repo": "SpikingBrain-7B",
-            "stars": 1364
+            "stars": 1367
           }
         },
         {
@@ -1230,7 +1230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T10:25:49Z",
+            "last_commit": "2026-08-18T13:41:12Z",
             "owner": "SensorsINI",
             "repo": "jaer",
             "stars": 191
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:51:12.543Z",
+    "last_updated": "2026-08-18T14:59:35.707Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_sha": "1087192a8f512c7da2aff1a0a5e33fe09f237617",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks-Hub",
