@@ -592,7 +592,7 @@
                     "last_commit": "2024-01-23T08:54:58Z",
                     "owner": "ZK-Zhou",
                     "repo": "spikformer",
-                    "stars": 412
+                    "stars": 413
                   }
                 },
                 {
@@ -1294,7 +1294,7 @@
                     "last_commit": "2026-08-19T09:41:09Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2104
+                    "stars": 2105
                   }
                 },
                 {
@@ -1309,7 +1309,7 @@
                     "last_commit": "2026-08-19T09:41:09Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2104
+                    "stars": 2105
                   }
                 },
                 {
@@ -1409,7 +1409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:12:30.242Z",
+    "last_updated": "2026-08-19T15:00:07.826Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_id": 1306607268,
     "original_repository_sha": "1087192a8f512c7da2aff1a0a5e33fe09f237617",
