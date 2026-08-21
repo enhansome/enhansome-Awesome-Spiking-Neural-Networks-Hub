@@ -866,7 +866,7 @@
                 "last_commit": "2026-05-14T09:52:16Z",
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1368
+                "stars": 1369
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2025-07-21T05:51:34Z",
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 910
+                "stars": 911
               }
             },
             {
@@ -897,6 +897,21 @@
                 "owner": "Intelligent-Computing-Research-Group",
                 "repo": "SpikeZIP-TF",
                 "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference (arXiv 2026). [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1221468185,
+                "language": "Python",
+                "last_commit": "2026-04-27T03:29:41Z",
+                "owner": "BICLab",
+                "repo": "SpikingBrain2.0",
+                "stars": 48
               }
             },
             {
@@ -1016,7 +1031,7 @@
                     "last_commit": "2019-04-20T17:58:54Z",
                     "owner": "ChFrenkel",
                     "repo": "ODIN",
-                    "stars": 234
+                    "stars": 236
                   }
                 }
               ],
@@ -1051,7 +1066,7 @@
                     "last_commit": "2025-06-30T05:52:54Z",
                     "owner": "BICLab",
                     "repo": "SpikeYOLO",
-                    "stars": 254
+                    "stars": 255
                   }
                 },
                 {
@@ -1222,7 +1237,7 @@
                     "last_commit": "2025-09-25T04:39:53Z",
                     "owner": "QVPR",
                     "repo": "VPRTempo",
-                    "stars": 62
+                    "stars": 63
                   }
                 }
               ],
@@ -1291,10 +1306,10 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-19T09:41:09Z",
+                    "last_commit": "2026-08-21T13:02:26Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2104
+                    "stars": 2106
                   }
                 },
                 {
@@ -1306,10 +1321,10 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-19T09:41:09Z",
+                    "last_commit": "2026-08-21T13:02:26Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2104
+                    "stars": 2106
                   }
                 },
                 {
@@ -1388,7 +1403,7 @@
                     "archived": false,
                     "id": 92194184,
                     "language": "Java",
-                    "last_commit": "2026-08-20T13:35:56Z",
+                    "last_commit": "2026-08-21T10:17:40Z",
                     "owner": "SensorsINI",
                     "repo": "jaer",
                     "stars": 191
@@ -1409,10 +1424,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:01:59.518Z",
+    "last_updated": "2026-08-21T15:00:37.474Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_id": 1306607268,
-    "original_repository_sha": "1087192a8f512c7da2aff1a0a5e33fe09f237617",
+    "original_repository_sha": "06f603384efe8d45bb06f9c0db048ccbe03531cf",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks-Hub",
     "enhanced_repository_description": null,
     "title": "Awesome Spiking Neural Networks Hub with stars"
