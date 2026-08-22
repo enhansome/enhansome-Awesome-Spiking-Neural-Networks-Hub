@@ -607,7 +607,7 @@
                     "last_commit": "2024-03-18T06:56:13Z",
                     "owner": "BICLab",
                     "repo": "Spike-Driven-Transformer",
-                    "stars": 315
+                    "stars": 316
                   }
                 },
                 {
@@ -1306,7 +1306,7 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-21T13:02:26Z",
+                    "last_commit": "2026-08-21T18:32:04Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2106
@@ -1321,7 +1321,7 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-21T13:02:26Z",
+                    "last_commit": "2026-08-21T18:32:04Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2106
@@ -1403,10 +1403,10 @@
                     "archived": false,
                     "id": 92194184,
                     "language": "Java",
-                    "last_commit": "2026-08-21T10:17:40Z",
+                    "last_commit": "2026-08-22T06:51:59Z",
                     "owner": "SensorsINI",
                     "repo": "jaer",
-                    "stars": 191
+                    "stars": 192
                   }
                 }
               ],
@@ -1424,7 +1424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:00:37.474Z",
+    "last_updated": "2026-08-22T14:44:27.451Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_id": 1306607268,
     "original_repository_sha": "06f603384efe8d45bb06f9c0db048ccbe03531cf",
