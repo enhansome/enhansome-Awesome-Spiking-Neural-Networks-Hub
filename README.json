@@ -933,7 +933,7 @@
                 "last_commit": "2025-07-21T05:51:34Z",
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 910
+                "stars": 911
               }
             },
             {
@@ -963,7 +963,7 @@
                 "last_commit": "2026-04-27T03:29:41Z",
                 "owner": "BICLab",
                 "repo": "SpikingBrain2.0",
-                "stars": 48
+                "stars": 49
               }
             },
             {
@@ -1795,7 +1795,7 @@
                 "archived": false,
                 "id": 24633934,
                 "language": "C++",
-                "last_commit": "2026-08-24T09:14:08Z",
+                "last_commit": "2026-08-24T14:46:38Z",
                 "owner": "genn-team",
                 "repo": "genn",
                 "stars": 280
@@ -2000,7 +2000,7 @@
                 "last_commit": "2025-07-21T05:51:34Z",
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 910
+                "stars": 911
               }
             },
             {
@@ -2515,7 +2515,7 @@
                     "archived": false,
                     "id": 24633934,
                     "language": "C++",
-                    "last_commit": "2026-08-24T09:14:08Z",
+                    "last_commit": "2026-08-24T14:46:38Z",
                     "owner": "genn-team",
                     "repo": "genn",
                     "stars": 280
@@ -2551,7 +2551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:31:12.128Z",
+    "last_updated": "2026-08-24T15:07:43.438Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_id": 1306607268,
     "original_repository_sha": "06f603384efe8d45bb06f9c0db048ccbe03531cf",

@@ -468,7 +468,7 @@ The central difficulty is that a spike is a **step function — non-differentiab
   > The first large generative spiking language model (up to 260M params), linearizing attention for \~20× fewer operations.
 * SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN (**ICML 2024**). \[[paper](https://arxiv.org/abs/2406.03470)]\[[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2024-12-04]
   > Losslessly converts quantized Transformers into SNNs, closing the accuracy gap with ANN Transformers on vision and language.
-* SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference (**arXiv 2026**). \[[paper](https://arxiv.org/abs/2604.22575)]\[[code](https://github.com/BICLab/SpikingBrain2.0) ⭐ 48 | 🐛 5 | 🌐 Python | 📅 2026-04-27]
+* SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference (**arXiv 2026**). \[[paper](https://arxiv.org/abs/2604.22575)]\[[code](https://github.com/BICLab/SpikingBrain2.0) ⭐ 49 | 🐛 5 | 🌐 Python | 📅 2026-04-27]
   > Extends the family to 5B language and vision-language models with dual sparse attention and INT8-spiking / FP8 paths, supporting 10M+ tokens and GPU or neuromorphic inference — 5B base/instruct/think and VL-5B weights open-sourced May 2026.
 * SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms (**ICML 2024**). \[[paper](https://arxiv.org/abs/2406.03287)]\[[code](https://github.com/Xingrun-Xing/SpikeLM) ⭐ 47 | 🐛 8 | 🌐 Python | 📅 2024-07-09]
   > A fully spike-driven mechanism handling both discriminative and generative language tasks with elastic bidirectional spikes.
