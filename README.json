@@ -1600,7 +1600,7 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:18:55Z",
+                "last_commit": "2026-08-25T13:12:54Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2108
@@ -1618,7 +1618,7 @@
                 "last_commit": "2026-08-23T22:01:24Z",
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2034
+                "stars": 2035
               }
             },
             {
@@ -1903,7 +1903,7 @@
                 "last_commit": "2026-07-17T20:54:49Z",
                 "owner": "neuromorphs",
                 "repo": "tonic",
-                "stars": 292
+                "stars": 293
               }
             },
             {
@@ -2411,7 +2411,7 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-25T03:18:55Z",
+                    "last_commit": "2026-08-25T13:12:54Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2108
@@ -2426,7 +2426,7 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-25T03:18:55Z",
+                    "last_commit": "2026-08-25T13:12:54Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2108
@@ -2481,7 +2481,7 @@
                     "last_commit": "2026-08-23T22:01:24Z",
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2034
+                    "stars": 2035
                   }
                 }
               ],
@@ -2530,7 +2530,7 @@
                     "archived": false,
                     "id": 92194184,
                     "language": "Java",
-                    "last_commit": "2026-08-25T06:20:24Z",
+                    "last_commit": "2026-08-25T10:32:44Z",
                     "owner": "SensorsINI",
                     "repo": "jaer",
                     "stars": 192
@@ -2551,7 +2551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:52.973Z",
+    "last_updated": "2026-08-25T15:11:44.092Z",
     "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
     "original_repository_id": 1306607268,
     "original_repository_sha": "06f603384efe8d45bb06f9c0db048ccbe03531cf",
