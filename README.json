@@ -918,7 +918,7 @@
                 "last_commit": "2026-05-14T09:52:16Z",
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1369
+                "stars": 1371
               }
             },
             {
@@ -1581,7 +1581,7 @@
                 "last_commit": "2026-05-14T14:10:30Z",
                 "owner": "NeuroBench",
                 "repo": "neurobench",
-                "stars": 129
+                "stars": 130
               }
             }
           ],
@@ -1600,10 +1600,10 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-26T13:34:08Z",
+                "last_commit": "2026-08-27T10:23:45Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2110
+                "stars": 2111
               }
             },
             {
@@ -1618,7 +1618,7 @@
                 "last_commit": "2026-08-23T22:01:24Z",
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2036
+                "stars": 2037
               }
             },
             {
@@ -1753,7 +1753,7 @@
                 "last_commit": "2026-08-02T14:25:10Z",
                 "owner": "nengo",
                 "repo": "nengo",
-                "stars": 940
+                "stars": 941
               }
             },
             {
@@ -1768,7 +1768,7 @@
                 "last_commit": "2026-08-01T09:02:50Z",
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1221
+                "stars": 1222
               }
             },
             {
@@ -1813,7 +1813,7 @@
                 "last_commit": "2026-08-13T04:29:07Z",
                 "owner": "brainpy",
                 "repo": "BrainPy",
-                "stars": 704
+                "stars": 705
               }
             },
             {
@@ -1858,7 +1858,7 @@
                 "last_commit": "2026-07-08T14:09:11Z",
                 "owner": "NeuralEnsemble",
                 "repo": "PyNN",
-                "stars": 309
+                "stars": 310
               }
             },
             {
@@ -1985,7 +1985,7 @@
                 "last_commit": "2026-05-14T09:52:16Z",
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1369
+                "stars": 1371
               }
             },
             {
@@ -2330,7 +2330,7 @@
                 "last_commit": "2026-06-18T09:35:11Z",
                 "owner": "fzenke",
                 "repo": "spytorch",
-                "stars": 361
+                "stars": 362
               }
             },
             {
@@ -2372,7 +2372,7 @@
                 "archived": false,
                 "id": 20801613,
                 "language": "Python",
-                "last_commit": "2026-08-26T06:09:41Z",
+                "last_commit": "2026-08-27T10:39:42Z",
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 119
@@ -2390,7 +2390,7 @@
                 "last_commit": "2026-08-25T18:42:01Z",
                 "owner": "electronicvisions",
                 "repo": "hxtorch",
-                "stars": 17
+                "stars": 18
               }
             }
           ],
@@ -2411,10 +2411,10 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-26T13:34:08Z",
+                    "last_commit": "2026-08-27T10:23:45Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2110
+                    "stars": 2111
                   }
                 },
                 {
@@ -2426,10 +2426,10 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-26T13:34:08Z",
+                    "last_commit": "2026-08-27T10:23:45Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2110
+                    "stars": 2111
                   }
                 },
                 {
@@ -2481,7 +2481,7 @@
                     "last_commit": "2026-08-23T22:01:24Z",
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2036
+                    "stars": 2037
                   }
                 }
               ],
@@ -2503,7 +2503,7 @@
                     "last_commit": "2026-06-18T09:35:11Z",
                     "owner": "fzenke",
                     "repo": "spytorch",
-                    "stars": 361
+                    "stars": 362
                   }
                 },
                 {
@@ -2530,7 +2530,7 @@
                     "archived": false,
                     "id": 92194184,
                     "language": "Java",
-                    "last_commit": "2026-08-26T15:42:57Z",
+                    "last_commit": "2026-08-27T06:37:54Z",
                     "owner": "SensorsINI",
                     "repo": "jaer",
                     "stars": 192
@@ -2551,9 +2551,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:57:50.985Z",
-    "original_repository": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "original_repository_id": 1306607268,
+    "last_updated": "2026-08-27T11:29:05.083Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1306607268,
+      "language": "Python",
+      "last_commit": "2026-08-21T10:40:32Z",
+      "owner": "haoran-zha",
+      "repo": "Awesome-Spiking-Neural-Networks-Hub",
+      "stars": 206
+    },
     "original_repository_sha": "06f603384efe8d45bb06f9c0db048ccbe03531cf",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks-Hub",
     "enhanced_repository_description": null,
