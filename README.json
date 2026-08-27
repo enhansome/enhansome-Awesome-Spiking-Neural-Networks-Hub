@@ -1600,10 +1600,10 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:23:45Z",
+                "last_commit": "2026-08-27T13:07:20Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -1615,7 +1615,7 @@
                 "archived": false,
                 "id": 299443676,
                 "language": "Python",
-                "last_commit": "2026-08-23T22:01:24Z",
+                "last_commit": "2026-08-27T22:17:27Z",
                 "owner": "jeshraghian",
                 "repo": "snntorch",
                 "stars": 2037
@@ -1828,7 +1828,7 @@
                 "last_commit": "2025-11-06T13:37:53Z",
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 646
+                "stars": 647
               }
             },
             {
@@ -2372,7 +2372,7 @@
                 "archived": false,
                 "id": 20801613,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:39:42Z",
+                "last_commit": "2026-08-27T15:51:19Z",
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 119
@@ -2411,10 +2411,10 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:23:45Z",
+                    "last_commit": "2026-08-27T13:07:20Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2111
+                    "stars": 2112
                   }
                 },
                 {
@@ -2426,10 +2426,10 @@
                     "archived": false,
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:23:45Z",
+                    "last_commit": "2026-08-27T13:07:20Z",
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2111
+                    "stars": 2112
                   }
                 },
                 {
@@ -2444,7 +2444,7 @@
                     "last_commit": "2025-11-06T13:37:53Z",
                     "owner": "BrainCog-X",
                     "repo": "Brain-Cog",
-                    "stars": 646
+                    "stars": 647
                   }
                 },
                 {
@@ -2478,7 +2478,7 @@
                     "archived": false,
                     "id": 299443676,
                     "language": "Python",
-                    "last_commit": "2026-08-23T22:01:24Z",
+                    "last_commit": "2026-08-27T22:17:27Z",
                     "owner": "jeshraghian",
                     "repo": "snntorch",
                     "stars": 2037
@@ -2533,7 +2533,7 @@
                     "last_commit": "2026-08-27T06:37:54Z",
                     "owner": "SensorsINI",
                     "repo": "jaer",
-                    "stars": 192
+                    "stars": 193
                   }
                 }
               ],
@@ -2551,7 +2551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:05.083Z",
+    "last_updated": "2026-08-27T23:50:36.188Z",
     "original_repository_info": {
       "archived": false,
       "id": 1306607268,
