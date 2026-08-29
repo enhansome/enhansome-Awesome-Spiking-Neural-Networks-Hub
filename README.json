@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks",
+                "homepage": null,
                 "id": 311262246,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-09T03:31:50Z",
+                "open_issues": 2,
                 "owner": "fangwei123456",
                 "repo": "Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "snn",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 632262524,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-21T11:10:20Z",
+                "open_issues": 4,
                 "owner": "fangwei123456",
                 "repo": "Parallel-Spiking-Neuron",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks, NeurIPS 2022 Poster",
+                "homepage": null,
                 "id": 537421481,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-18T09:12:09Z",
+                "open_issues": 0,
                 "owner": "CAS-CLab",
                 "repo": "Gated-LIF",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -60,12 +80,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical Implementation of \"CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks\" (ICML 2024 spotlight)",
+                "homepage": "https://openreview.net/pdf?id=yY6N89IlHa",
                 "id": 735830112,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-17T07:00:45Z",
+                "open_issues": 3,
                 "owner": "HuuYuLong",
                 "repo": "Complementary-LIF",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "neuromorphic-computing",
+                  "neuron",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -76,12 +105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AAAI-2024 \"TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling\"",
+                "homepage": null,
                 "id": 731993800,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-23T08:33:34Z",
+                "open_issues": 1,
                 "owner": "ZhangShimin1",
                 "repo": "TC-LIF",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -92,12 +126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analysis code for Teeter et al 2018 Nature Communications Manuscript",
+                "homepage": null,
                 "id": 113526766,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-02-20T19:42:19Z",
+                "open_issues": 0,
                 "owner": "AllenInstitute",
                 "repo": "GLIF_Teeter_et_al_2018",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             }
@@ -123,12 +162,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Toolbox for converting analog to spiking neural networks (ANN to SNN), and running them in a spiking neuron simulator.",
+                    "homepage": null,
                     "id": 64289132,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-01-13T10:01:01Z",
+                    "open_issues": 3,
                     "owner": "NeuromorphicProcessorProject",
                     "repo": "snn_toolbox",
-                    "stars": 399
+                    "stars": 399,
+                    "topics": [
+                      "brian",
+                      "brian2",
+                      "caffe",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "keras",
+                      "lasagne",
+                      "loihi",
+                      "nest",
+                      "pynn",
+                      "pytorch",
+                      "spiking-neural-networks",
+                      "spinnaker",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -139,12 +198,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Training spiking networks with hybrid ann-snn conversion and spike-based backpropagation",
+                    "homepage": "https://openreview.net/forum?id=B1xSperKvH",
                     "id": 240139503,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-04-04T02:29:27Z",
+                    "open_issues": 13,
                     "owner": "nitin-rathi",
                     "repo": "hybrid-snn-conversion",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": [
+                      "ann-snn-conversion",
+                      "backpropagation-algorithm",
+                      "deep-learning",
+                      "pytorch",
+                      "snn",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -155,12 +226,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch Implementation of Spiking Neural Networks Calibration, ICML 2021",
+                    "homepage": null,
                     "id": 376685550,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-09T01:04:04Z",
+                    "open_issues": 6,
                     "owner": "yhhhli",
                     "repo": "SNN_Calibration",
-                    "stars": 92
+                    "stars": 92,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -171,12 +247,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for paper \"Optimal ANN-SNN conversion for high-accuracy and ultra-low-latency spiking neural networks\"",
+                    "homepage": null,
                     "id": 685373032,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-02T06:26:47Z",
+                    "open_issues": 6,
                     "owner": "putshua",
                     "repo": "ANN_SNN_QCFS",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -187,12 +268,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks",
+                    "homepage": null,
                     "id": 336705837,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-12-03T04:23:41Z",
+                    "open_issues": 0,
                     "owner": "Jackn0",
                     "repo": "snn_optimal_conversion_pipeline",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -203,12 +289,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 632435572,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-25T12:11:12Z",
+                    "open_issues": 1,
                     "owner": "HaiyanJiang",
                     "repo": "SNN_Conversion_unified",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -226,12 +317,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of SLAYER for training Spiking Neural Networks",
+                    "homepage": null,
                     "id": 186736381,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-17T20:22:36Z",
+                    "open_issues": 26,
                     "owner": "bamsumit",
                     "repo": "slayerPytorch",
-                    "stars": 327
+                    "stars": 327,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -242,12 +338,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Spatio-temporal BP for SNNs",
+                    "homepage": null,
                     "id": 158179085,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-05-17T09:30:39Z",
+                    "open_issues": 5,
                     "owner": "yjwu17",
                     "repo": "STBP-for-training-SpikingNN",
-                    "stars": 243
+                    "stars": 243,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -258,12 +359,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for temporal efficient training",
+                    "homepage": null,
                     "id": 457175690,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-16T03:36:23Z",
+                    "open_issues": 3,
                     "owner": "brain-intelligence-lab",
                     "repo": "temporal_efficient_training",
-                    "stars": 74
+                    "stars": 74,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -274,12 +380,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of TSSL-BP rule for Deep Spiking Neural Networks.",
+                    "homepage": null,
                     "id": 239040090,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-16T22:23:42Z",
+                    "open_issues": 9,
                     "owner": "stonezwr",
                     "repo": "TSSL-BP",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -290,12 +401,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2022] Online Training Through Time for Spiking Neural Networks",
+                    "homepage": null,
                     "id": 548261048,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-12-08T08:49:48Z",
+                    "open_issues": 4,
                     "owner": "pkuxmq",
                     "repo": "OTTT-SNN",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -306,12 +422,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code from our paper: SuperSpike: Supervised learning in multi-layer spiking neural networks.",
+                    "homepage": "https://doi.org/10.1162/neco_a_01086",
                     "id": 135149670,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-07-16T08:56:30Z",
+                    "open_issues": 1,
                     "owner": "fzenke",
                     "repo": "pub2018superspike",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -322,12 +443,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022] Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation",
+                    "homepage": null,
                     "id": 468184902,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-08T01:44:45Z",
+                    "open_issues": 1,
                     "owner": "qymeng94",
                     "repo": "DSR",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -338,12 +464,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV2023] Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks",
+                    "homepage": null,
                     "id": 651469972,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-02T16:03:40Z",
+                    "open_issues": 1,
                     "owner": "qymeng94",
                     "repo": "SLTT",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -354,12 +485,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2021] Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State",
+                    "homepage": null,
                     "id": 411503660,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-10-24T10:26:27Z",
+                    "open_issues": 1,
                     "owner": "pkuxmq",
                     "repo": "IDE-FSNN",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -370,12 +506,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 368942560,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-03-10T12:03:47Z",
+                    "open_issues": 3,
                     "owner": "npvoid",
                     "repo": "SparseSpikingBackprop",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -386,12 +527,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 194551437,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-08-04T10:48:56Z",
+                    "open_issues": 3,
                     "owner": "fzenke",
                     "repo": "randman",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -402,12 +548,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The source code for the paper entitled \"A Tandem Learning Rule for Effective Training and Rapid Inference of Deep Spiking Neural Networks\"",
+                    "homepage": null,
                     "id": 382747895,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-07-04T07:46:16Z",
+                    "open_issues": 0,
                     "owner": "deepspike",
                     "repo": "tandem_learning",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -418,12 +569,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real Spike: Learning Real-valued Spikes for Spiking Neural Networks",
+                    "homepage": null,
                     "id": 512983485,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-07-12T03:42:47Z",
+                    "open_issues": 0,
                     "owner": "yfguo91",
                     "repo": "Real-Spike",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -434,12 +590,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official simplified implementation of IM-Loss.",
+                    "homepage": null,
                     "id": 656587717,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-06-21T08:49:41Z",
+                    "open_issues": 2,
                     "owner": "yfguo91",
                     "repo": "IM-Loss-Information-Maximization-Loss-for-Spiking-Neural-Networks",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -450,12 +611,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes for Advancing Spatiotemporal Representations in Spiking Neural Networks via Parametric Invertible Transformation (ICLR 2026)",
+                    "homepage": null,
                     "id": 1167606579,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-14T05:50:38Z",
+                    "open_issues": 0,
                     "owner": "YinsongYan",
                     "repo": "ICLR26",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -473,12 +639,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High-speed simulator of convolutional spiking neural networks with at most one spike per neuron.",
+                    "homepage": null,
                     "id": 154510725,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-09-07T21:02:06Z",
+                    "open_issues": 1,
                     "owner": "miladmozafari",
                     "repo": "SpykeTorch",
-                    "stars": 406
+                    "stars": 406,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -489,12 +660,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 40340691,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-03-03T10:25:34Z",
+                    "open_issues": 13,
                     "owner": "peter-u-diehl",
                     "repo": "stdp-mnist",
-                    "stars": 369
+                    "stars": 369,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -505,12 +681,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 169235710,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-18T23:55:16Z",
+                    "open_issues": 5,
                     "owner": "IGITUGraz",
                     "repo": "eligibility_propagation",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -528,12 +709,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of \"Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression\" (ICLR 2026).",
+                    "homepage": "https://openreview.net/forum?id=nrBJ0Uvj7c",
                     "id": 959596603,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-19T08:49:16Z",
+                    "open_issues": 0,
                     "owner": "AllenYolk",
                     "repo": "snn-gradient-checkpointing",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -558,12 +744,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Residual Learning in Spiking Neural Networks",
+                    "homepage": null,
                     "id": 373857522,
                     "language": "Python",
+                    "license": "MPL-2.0",
                     "last_commit": "2022-08-09T02:55:18Z",
+                    "open_issues": 12,
                     "owner": "fangwei123456",
                     "repo": "Spike-Element-Wise-ResNet",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -574,12 +765,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Advancing Spiking Neural Networks towards Deep Residual Learning",
+                    "homepage": null,
                     "id": 493942055,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-03T10:35:29Z",
+                    "open_issues": 2,
                     "owner": "Ariande1",
                     "repo": "MS-ResNet",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -590,12 +786,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BNTT - Frontiers in Neuroscience (2021)",
+                    "homepage": null,
                     "id": 317066725,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-11T18:24:12Z",
+                    "open_issues": 0,
                     "owner": "Intelligent-Computing-Lab-Panda",
                     "repo": "BNTT-Batch-Normalization-Through-Time",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -606,12 +807,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Membrane Potential Batch Normalization for Spiking Neural Networks",
+                    "homepage": null,
                     "id": 679262962,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-18T06:36:15Z",
+                    "open_issues": 4,
                     "owner": "yfguo91",
                     "repo": "MPBN",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -622,12 +828,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Temporal Effective Batch Normalization in Spiking Neural Networks",
+                    "homepage": null,
                     "id": 644314833,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-05-23T10:06:26Z",
+                    "open_issues": 0,
                     "owner": "ChaotengDuan",
                     "repo": "TEBN",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -645,12 +856,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ICLR 2023, Spikformer: When Spiking Neural Network Meets Transformer",
+                    "homepage": null,
                     "id": 543153207,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-23T08:54:58Z",
+                    "open_issues": 18,
                     "owner": "ZK-Zhou",
                     "repo": "spikformer",
-                    "stars": 413
+                    "stars": 413,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -661,12 +877,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical implementation of \"Spike-driven Transformer\" (NeurIPS2023)",
+                    "homepage": "https://openreview.net/forum?id=9FmolyOHi5",
                     "id": 662105186,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-03-18T06:56:13Z",
+                    "open_issues": 4,
                     "owner": "BICLab",
                     "repo": "Spike-Driven-Transformer",
-                    "stars": 316
+                    "stars": 316,
+                    "topics": [
+                      "neuromorphic-computing",
+                      "spike-driven",
+                      "spiking-neural-network",
+                      "spiking-transformer",
+                      "transformer-based-snn"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -677,12 +904,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical implementation of \"Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips\" (ICLR2024)",
+                    "homepage": "https://openreview.net/forum?id=1SIBN5Xyw7",
                     "id": 754146150,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-10T15:06:37Z",
+                    "open_issues": 1,
                     "owner": "BICLab",
                     "repo": "Spike-Driven-Transformer-V2",
-                    "stars": 231
+                    "stars": 231,
+                    "topics": [
+                      "neuromorphic-computing",
+                      "neuromorphic-hardware",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -693,12 +929,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Spikingformer: A Key Foundation Model for Spiking Neural Networks (AAAI 2026)",
+                    "homepage": null,
                     "id": 624667880,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-16T09:38:48Z",
+                    "open_issues": 7,
                     "owner": "TheBrainLab",
                     "repo": "Spikingformer",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": [
+                      "3rd-generation-of-artificial-neural-networks",
+                      "binary",
+                      "brain-inspired",
+                      "deep-learning",
+                      "energy-efficiency",
+                      "neuromorphic-computing",
+                      "pytorch",
+                      "snn",
+                      "spike",
+                      "spiking-neural-networks",
+                      "spiking-transformer",
+                      "spikingjelly",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -709,12 +964,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical code of \"QKFormer: Hierarchical Spiking Transformer using Q-K Attention\" ",
+                    "homepage": null,
                     "id": 668966689,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-25T04:20:51Z",
+                    "open_issues": 8,
                     "owner": "zhouchenlin2096",
                     "repo": "QKFormer",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": [
+                      "3rd-generation-of-artificial-neural-networks",
+                      "brain-inspired",
+                      "energy-efficiency",
+                      "event-driven",
+                      "neuromorphic-computing",
+                      "spike",
+                      "spiking-neural-network",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -725,12 +994,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical implementation of \"Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training\" (IEEE T-PAMI2025)",
+                    "homepage": "https://arxiv.org/pdf/2411.16061",
                     "id": 892653625,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-20T16:17:47Z",
+                    "open_issues": 1,
                     "owner": "BICLab",
                     "repo": "Spike-Driven-Transformer-V3",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": [
+                      "neuromorphic-computing",
+                      "spiking-neural-network"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -741,12 +1018,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical implementation of \"Attention Spiking Neural Networks\" (IEEE T-PAMI2023)",
+                    "homepage": "https://ieeexplore.ieee.org/abstract/document/10032591",
                     "id": 664299029,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-20T01:48:40Z",
+                    "open_issues": 5,
                     "owner": "BICLab",
                     "repo": "Attention-SNN",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": [
+                      "attention-mechanism",
+                      "dynamic-neural-network",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -757,12 +1043,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch Implementation of Spiking Transformer with Spatial-Temporal Attention (CVPR 2025)",
+                    "homepage": null,
                     "id": 941758359,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-07T21:34:56Z",
+                    "open_issues": 0,
                     "owner": "Intelligent-Computing-Lab-Panda",
                     "repo": "STAtten",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -773,12 +1064,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes of the paper: SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR2024)",
+                    "homepage": null,
                     "id": 775871418,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-19T09:17:23Z",
+                    "open_issues": 3,
                     "owner": "xyshi2000",
                     "repo": "SpikingResformer",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -789,12 +1085,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV-23 + IJCV-26] Masked Spiking Transformer",
+                    "homepage": null,
                     "id": 676518800,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-10T11:48:24Z",
+                    "open_issues": 0,
                     "owner": "bic-L",
                     "repo": "Masked-Spiking-Transformer",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -805,12 +1106,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical implementation of \"Temporal-wise Attention Spiking Neural Networks for Event Streams Classification\" (ICCV2021)",
+                    "homepage": "https://openaccess.thecvf.com/content/ICCV2021/html/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.html",
                     "id": 664286917,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-16T09:15:55Z",
+                    "open_issues": 2,
                     "owner": "BICLab",
                     "repo": "TA-SNN",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "attention-mechanism",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -828,12 +1137,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Long short-term memory Spiking Neural Networks",
+                    "homepage": null,
                     "id": 190605123,
                     "language": "Python",
+                    "license": "BSD-3-Clause-Clear",
                     "last_commit": "2020-02-25T20:28:35Z",
+                    "open_issues": 0,
                     "owner": "IGITUGraz",
                     "repo": "LSNN-official",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": [
+                      "machine-learning",
+                      "neuromorphic-computing",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -844,12 +1162,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 413729547,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2022-09-16T11:04:36Z",
+                    "open_issues": 2,
                     "owner": "ZulunZhu",
                     "repo": "SpikingGCN",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -860,12 +1183,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[AAAI 2023] Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks",
+                    "homepage": "https://arxiv.org/abs/2208.10364",
                     "id": 529256038,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-09-27T09:42:24Z",
+                    "open_issues": 1,
                     "owner": "EdisonLeeeee",
                     "repo": "SpikeNet",
-                    "stars": 80
+                    "stars": 80,
+                    "topics": [
+                      "dynamic-graphs",
+                      "graph-neural-networks",
+                      "spiking-neural-networks",
+                      "temporal-graph-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -876,12 +1209,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2024] Official implementation of Spiking Graph Contrastive Learning (0️⃣1️⃣ SpikeGCL)",
+                    "homepage": "https://openreview.net/forum?id=LnLySuf1vp",
                     "id": 640100529,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-08T07:11:42Z",
+                    "open_issues": 1,
                     "owner": "EdisonLeeeee",
                     "repo": "SpikeGCL",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "graph-contrastive-learning",
+                      "graph-neural-networks",
+                      "iclr",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -892,12 +1235,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[WACV 2024] Spiking Denoising Diffusion Probabilistic Models ",
+                    "homepage": null,
                     "id": 710609236,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-26T08:19:49Z",
+                    "open_issues": 0,
                     "owner": "SageCao1125",
                     "repo": "SDDPM",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -908,12 +1256,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neural Architecture Search for Spiking Neural Networks, ECCV2022",
+                    "homepage": null,
                     "id": 451151940,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-07-19T20:42:49Z",
+                    "open_issues": 5,
                     "owner": "Intelligent-Computing-Lab-Panda",
                     "repo": "Neural-Architecture-Search-for-Spiking-Neural-Networks",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -924,12 +1277,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code of \"AutoSNN: Towards Energy-Efficient Spiking Neural Networks,\" ICML22",
+                    "homepage": null,
                     "id": 497528673,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-05-29T08:34:10Z",
+                    "open_issues": 0,
                     "owner": "nabk89",
                     "repo": "AutoSNN",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -940,12 +1298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the official code for our paper \"Differentiable Hierarchical and Surrogate Gradient Search for Spiking Neural Networks, NeurIPS 2022, Spotlight\"",
+                    "homepage": null,
                     "id": 570360707,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-30T04:58:55Z",
+                    "open_issues": 1,
                     "owner": "Huawei-BIC",
                     "repo": "SpikeDHS",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -968,12 +1331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture",
+                "homepage": null,
                 "id": 1049683969,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-14T09:52:16Z",
+                "open_issues": 9,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1372
+                "stars": 1373,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -984,12 +1352,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implementation of \"SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks\"",
+                "homepage": null,
                 "id": 605839622,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-07-21T05:51:34Z",
+                "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 911
+                "stars": 911,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1000,12 +1373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of SpikeZIP-TF in ICML2024",
+                "homepage": null,
                 "id": 807994189,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-04T12:26:48Z",
+                "open_issues": 3,
                 "owner": "Intelligent-Computing-Research-Group",
                 "repo": "SpikeZIP-TF",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1016,12 +1394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical implementation of \"SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference\"",
+                "homepage": null,
                 "id": 1221468185,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-27T03:29:41Z",
+                "open_issues": 5,
                 "owner": "BICLab",
                 "repo": "SpikingBrain2.0",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1032,12 +1415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the implentation of our paper \"SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms\" in ICML 2024.",
+                "homepage": null,
                 "id": 808175903,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-09T06:18:40Z",
+                "open_issues": 8,
                 "owner": "Xingrun-Xing",
                 "repo": "SpikeLM",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1048,12 +1436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023] Spiking Convolutional Neural Networks for Text Classification",
+                "homepage": null,
                 "id": 513352747,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-12T06:58:45Z",
+                "open_issues": 0,
                 "owner": "Lvchangze",
                 "repo": "snn",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1064,12 +1457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Neural Networks] SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation",
+                "homepage": null,
                 "id": 701694128,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-11T14:00:37Z",
+                "open_issues": 1,
                 "owner": "Lvchangze",
                 "repo": "SpikeBERT",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1080,12 +1478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Neural Networks] SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network",
+                "homepage": null,
                 "id": 986365714,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-20T06:33:20Z",
+                "open_issues": 2,
                 "owner": "Lvchangze",
                 "repo": "SpikeCLIP",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             }
@@ -1111,12 +1514,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Software Framework for Neuromorphic Computing",
+                    "homepage": "https://lava-nc.org",
                     "id": 411813745,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-13T16:13:35Z",
+                    "open_issues": 130,
                     "owner": "lava-nc",
                     "repo": "lava",
-                    "stars": 739
+                    "stars": 739,
+                    "topics": [
+                      "deep-learning",
+                      "neural-networks",
+                      "neuromorphic",
+                      "neuromorphic-computing",
+                      "neuroscience",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1127,12 +1542,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Software Framework for Neuromorphic Computing",
+                    "homepage": "https://lava-nc.org",
                     "id": 411813745,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-13T16:13:35Z",
+                    "open_issues": 130,
                     "owner": "lava-nc",
                     "repo": "lava",
-                    "stars": 739
+                    "stars": 739,
+                    "topics": [
+                      "deep-learning",
+                      "neural-networks",
+                      "neuromorphic",
+                      "neuromorphic-computing",
+                      "neuroscience",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1143,12 +1570,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ODIN online-learning digital spiking neural network (SNN) processor - HDL source code and documentation.",
+                    "homepage": null,
                     "id": 182438188,
                     "language": "Verilog",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-04-20T17:58:54Z",
+                    "open_issues": 10,
                     "owner": "ChFrenkel",
                     "repo": "ODIN",
-                    "stars": 237
+                    "stars": 237,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1166,12 +1598,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A deep learning library for spiking neural networks which is based on PyTorch, focuses on fast training and supports inference on neuromorphic hardware.",
+                    "homepage": "https://sinabs.readthedocs.io",
                     "id": 461755843,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-05T02:55:37Z",
+                    "open_issues": 27,
                     "owner": "synsense",
                     "repo": "sinabs",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": [
+                      "machine-learning",
+                      "pytorch",
+                      "snn",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1189,12 +1631,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 919220484,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-27T02:58:38Z",
+                    "open_issues": 2,
                     "owner": "LynxiTech",
                     "repo": "BIDL",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1225,12 +1672,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.",
+                    "homepage": null,
                     "id": 702272939,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-09T03:12:48Z",
+                    "open_issues": 2,
                     "owner": "DayongRen",
                     "repo": "Spiking-PointNet",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1248,12 +1700,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical implementation of \"Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection\" (ECCV2024 Best Paper Candidate)",
+                    "homepage": "https://arxiv.org/abs/2407.20708",
                     "id": 827087200,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-06-30T05:52:54Z",
+                    "open_issues": 10,
                     "owner": "BICLab",
                     "repo": "SpikeYOLO",
-                    "stars": 255
+                    "stars": 255,
+                    "topics": [
+                      "neuromorphic-computing",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1264,12 +1724,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical implementation of \"Deep Directly-Trained Spiking Neural Networks for Object Detection\" (ICCV2023)",
+                    "homepage": "https://arxiv.org/abs/2307.11411",
                     "id": 668213519,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-21T10:26:20Z",
+                    "open_issues": 23,
                     "owner": "BICLab",
                     "repo": "EMS-YOLO",
-                    "stars": 196
+                    "stars": 196,
+                    "topics": [
+                      "spiking-neural-network",
+                      "spiking-yolo"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1287,12 +1755,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"EV-FlowNet: Self-Supervised Optical Flow for Event-based Cameras\"",
+                    "homepage": null,
                     "id": 138225149,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-15T12:06:19Z",
+                    "open_issues": 10,
                     "owner": "daniilidis-group",
                     "repo": "EV-FlowNet",
-                    "stars": 193
+                    "stars": 193,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1303,12 +1776,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 280708260,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-27T18:49:19Z",
+                    "open_issues": 6,
                     "owner": "chan8972",
                     "repo": "Spike-FlowNet",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1319,12 +1797,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 357184756,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-02-28T12:35:53Z",
+                    "open_issues": 6,
                     "owner": "tudelft",
                     "repo": "ssl_e2vid",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1335,12 +1818,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 473460194,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-04-03T13:02:16Z",
+                    "open_issues": 7,
                     "owner": "LinZhu111",
                     "repo": "EVSNN",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1351,12 +1839,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stereo depth estimation with Spiking Neural Networks (SNN) on Dynamic Vision Sensor (DVS) data",
+                    "homepage": null,
                     "id": 345978131,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-04-24T18:02:19Z",
+                    "open_issues": 6,
                     "owner": "urancon",
                     "repo": "StereoSpike",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1374,12 +1867,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical implementation of \"Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation\" (AAAI2025 Oral)",
+                    "homepage": null,
                     "id": 901087718,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-14T07:27:36Z",
+                    "open_issues": 3,
                     "owner": "BICLab",
                     "repo": "Spike2Former",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1390,12 +1888,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 583249434,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-02-04T13:16:18Z",
+                    "open_issues": 1,
                     "owner": "SNNresearch",
                     "repo": "Spiking-UNet",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1413,12 +1916,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "End-to-End Autonomous Driving with Spiking Neural Networks",
+                    "homepage": null,
                     "id": 807984491,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-13T04:32:58Z",
+                    "open_issues": 4,
                     "owner": "ridgerchu",
                     "repo": "SAD",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1436,12 +1944,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DRL with population coded spiking neural network for optimal and energy-efficient continuous control.",
+                    "homepage": null,
                     "id": 304649227,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-15T02:05:07Z",
+                    "open_issues": 1,
                     "owner": "combra-lab",
                     "repo": "pop-spiking-deep-rl",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "control",
+                      "deep-reinforcement-learning",
+                      "mujoco",
+                      "openai-gym",
+                      "robotics",
+                      "snn",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1452,12 +1973,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for VPRTempo, our temporally encoded spiking neural network for visual place recognition. ",
+                    "homepage": "https://vprtempo.github.io",
                     "id": 662943757,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-25T04:39:53Z",
+                    "open_issues": 0,
                     "owner": "QVPR",
                     "repo": "VPRTempo",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "localization",
+                      "navigation",
+                      "pytorch",
+                      "robotics",
+                      "spiking-neural-network",
+                      "visual-place-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1475,12 +2008,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The source code of paper Human-Level Control through Directly-Trained Deep Spiking Q-Networks.",
+                    "homepage": null,
                     "id": 437779289,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-04-18T12:45:54Z",
+                    "open_issues": 0,
                     "owner": "AptX395",
                     "repo": "Deep-Spiking-Q-Networks",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1498,12 +2036,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings\" [ICLR2024] ",
+                    "homepage": "https://openreview.net/forum?id=4r2ybzJnmN",
                     "id": 622161099,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-24T07:57:51Z",
+                    "open_issues": 0,
                     "owner": "Thvnvtos",
                     "repo": "SNN-delays",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -1514,12 +2057,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch based toolkit for developing spiking neural networks (SNNs) by training and testing them on speech command recognition tasks",
+                    "homepage": null,
                     "id": 523391451,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-03T02:29:20Z",
+                    "open_issues": 3,
                     "owner": "idiap",
                     "repo": "sparch",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1537,12 +2085,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 804733113,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-08T14:29:53Z",
+                    "open_issues": 12,
                     "owner": "microsoft",
                     "repo": "SeqSNN",
-                    "stars": 92
+                    "stars": 92,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -1571,12 +2124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for \"Graph-based Object Classification for Neuromorphic Vision Sensing\" ICCV2019",
+                "homepage": null,
                 "id": 198670991,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-02T15:20:17Z",
+                "open_issues": 4,
                 "owner": "PIX2NVS",
                 "repo": "NVS2Graph",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1587,12 +2145,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for generating data set ES-ImageNet with corresponding training code",
+                "homepage": "http://lyh983012.github.io/",
                 "id": 343057526,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-06-04T02:20:50Z",
+                "open_issues": 2,
                 "owner": "lyh983012",
                 "repo": "ES-imagenet-master",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "dataset",
+                  "dataset-generation",
+                  "deep-learning",
+                  "python",
+                  "pytorch",
+                  "snn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1603,12 +2173,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI-2024, IJCV-2026] HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors",
+                "homepage": null,
                 "id": 564351508,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-21T14:24:03Z",
+                "open_issues": 9,
                 "owner": "Event-AHU",
                 "repo": "HARDVS",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "deep-learning",
+                  "dynamic-vision-sensors",
+                  "event-camera",
+                  "human-action-recognition",
+                  "human-activity-recognition",
+                  "spatiotemporal-features",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1619,12 +2202,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of Python scripts to evaluate the Automotive Datasets provided by Prophesee",
+                "homepage": null,
                 "id": 235803612,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-28T10:34:29Z",
+                "open_issues": 5,
                 "owner": "prophesee-ai",
                 "repo": "prophesee-automotive-dataset-toolbox",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "automotive",
+                  "autonomous-driving",
+                  "computer-vision",
+                  "dataset",
+                  "event-based",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machinelearning",
+                  "pattern-recognition",
+                  "perception",
+                  "perceptron-learning-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1635,12 +2235,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of Python scripts to evaluate the Automotive Datasets provided by Prophesee",
+                "homepage": null,
                 "id": 235803612,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-28T10:34:29Z",
+                "open_issues": 5,
                 "owner": "prophesee-ai",
                 "repo": "prophesee-automotive-dataset-toolbox",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "automotive",
+                  "autonomous-driving",
+                  "computer-vision",
+                  "dataset",
+                  "event-based",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machinelearning",
+                  "pattern-recognition",
+                  "perception",
+                  "perceptron-learning-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1651,12 +2268,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDD20 End-to-End Event Camera Driving Dataset",
+                "homepage": "https://sites.google.com/view/davis-driving-dataset-2020/home",
                 "id": 242417687,
                 "language": "Jupyter Notebook",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-11-15T17:48:33Z",
+                "open_issues": 7,
                 "owner": "SensorsINI",
                 "repo": "ddd20-utils",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "davis",
+                  "deep-learning",
+                  "event-camera",
+                  "neuromorphic-engineering",
+                  "python27"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1667,12 +2295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmark harness and baseline results for the NeuroBench algorithm track.",
+                "homepage": "https://neurobench.readthedocs.io",
                 "id": 629601690,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-14T14:10:30Z",
+                "open_issues": 9,
                 "owner": "NeuroBench",
                 "repo": "neurobench",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             }
@@ -1690,12 +2323,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.",
+                "homepage": "https://spikingjelly.readthedocs.io",
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-28T18:37:06Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:25:08Z",
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2113
+                "stars": 2113,
+                "topics": [
+                  "deep-learning",
+                  "dvs",
+                  "machine-learning",
+                  "pytorch",
+                  "snn",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1706,12 +2351,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep and online learning with spiking neural networks in Python",
+                "homepage": "https://snntorch.readthedocs.io/en/latest/",
                 "id": 299443676,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:17:27Z",
+                "open_issues": 72,
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2039
+                "stars": 2039,
+                "topics": [
+                  "machine-learning",
+                  "neural-networks",
+                  "neuron-models",
+                  "neuroscience",
+                  "python",
+                  "pytorch",
+                  "snn",
+                  "spike",
+                  "spiking",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1722,12 +2383,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning with spiking neural networks (SNNs) in PyTorch.",
+                "homepage": "https://norse.github.io/norse/",
                 "id": 223287445,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-07T19:57:17Z",
+                "open_issues": 64,
                 "owner": "norse",
                 "repo": "norse",
-                "stars": 818
+                "stars": 818,
+                "topics": [
+                  "autograd",
+                  "deep-learning",
+                  "gpu",
+                  "machine-learning",
+                  "neural-network",
+                  "neuromorphic",
+                  "pytorch",
+                  "pytorch-lightning",
+                  "spiking-neural-networks",
+                  "tensor"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1738,12 +2415,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulation of spiking neural networks (SNNs) using PyTorch.",
+                "homepage": null,
                 "id": 120948040,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-20T15:19:52Z",
+                "open_issues": 15,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
-                "stars": 1695
+                "stars": 1695,
+                "topics": [
+                  "dynamic",
+                  "gpu-computing",
+                  "machine-learning",
+                  "neurons",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "simulation",
+                  "snn",
+                  "spiking-neural-networks",
+                  "stdp",
+                  "synapse"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1754,12 +2448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-speed simulator of convolutional spiking neural networks with at most one spike per neuron.",
+                "homepage": null,
                 "id": 154510725,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2021-09-07T21:02:06Z",
+                "open_issues": 1,
                 "owner": "miladmozafari",
                 "repo": "SpykeTorch",
-                "stars": 406
+                "stars": 406,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1770,12 +2469,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spyx: Spiking Neural Networks in JAX",
+                "homepage": "https://spyx.readthedocs.io/en/latest/",
                 "id": 656877506,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-07T10:44:44Z",
+                "open_issues": 9,
                 "owner": "kmheckel",
                 "repo": "spyx",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "ai",
+                  "dm-haiku",
+                  "jax",
+                  "ml",
+                  "neural-networks",
+                  "neuromorphic",
+                  "snn",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1786,12 +2499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spike-based artificial intelligence computing platform",
+                "homepage": null,
                 "id": 447090438,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-07T03:42:25Z",
+                "open_issues": 0,
                 "owner": "zju-bmi-lab",
                 "repo": "SPAIC",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1802,12 +2520,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spiking neural networks in JAX with equinox.",
+                "homepage": "https://pgi15.github.io/snnax/",
                 "id": 791872059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-29T11:48:24Z",
+                "open_issues": 5,
                 "owner": "PGI15",
                 "repo": "snnax",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "jax",
+                  "neuromorphic-computing",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1818,12 +2545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jaxsnn is an event-based approach to machine-learning-inspired training and simulation of SNNs, including support for the BrainScaleS-2 neuromorphic backend.",
+                "homepage": null,
                 "id": 636711809,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-14T20:59:11Z",
+                "open_issues": 1,
                 "owner": "electronicvisions",
                 "repo": "jaxsnn",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1834,12 +2566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ANNarchy (Artificial Neural Networks architect) is a parallel simulator for rate-coded and spiking neural networks.",
+                "homepage": "https://annarchy.github.io/",
                 "id": 57382690,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-20T09:34:46Z",
+                "open_issues": 6,
                 "owner": "ANNarchy",
                 "repo": "ANNarchy",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1850,12 +2587,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python library for creating and simulating large-scale brain models",
+                "homepage": "https://www.nengo.ai/nengo",
                 "id": 9568894,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-02T14:25:10Z",
+                "open_issues": 140,
                 "owner": "nengo",
                 "repo": "nengo",
-                "stars": 941
+                "stars": 941,
+                "topics": [
+                  "nengo",
+                  "neural-networks",
+                  "neuroscience",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1866,12 +2613,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brian is a free, open source simulator for spiking neural networks. ",
+                "homepage": "http://briansimulator.org",
                 "id": 6884056,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T09:02:50Z",
+                "open_issues": 207,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1222
+                "stars": 1222,
+                "topics": [
+                  "biological-simulations",
+                  "brian",
+                  "brian2",
+                  "code-generation",
+                  "computational-neuroscience",
+                  "differential-equations",
+                  "neuroscience",
+                  "python",
+                  "science",
+                  "simulation-framework",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1882,12 +2646,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The NEST simulator",
+                "homepage": "http://www.nest-simulator.org",
                 "id": 33933892,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-26T13:58:15Z",
+                "open_issues": 228,
                 "owner": "nest",
                 "repo": "nest-simulator",
-                "stars": 660
+                "stars": 660,
+                "topics": [
+                  "cpp",
+                  "nest",
+                  "nest-simulator",
+                  "neurons",
+                  "point-neurons",
+                  "python",
+                  "simulation-toolkit",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1898,12 +2676,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA and AMD HIP.",
+                "homepage": "http://genn-team.github.io/",
                 "id": 24633934,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-24T14:46:38Z",
+                "open_issues": 45,
                 "owner": "genn-team",
                 "repo": "genn",
-                "stars": 280
+                "stars": 280,
+                "topics": [
+                  "computational-neuroscience",
+                  "hacktoberfest",
+                  "nvidia-cuda",
+                  "simulation",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1914,12 +2703,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brain Dynamics Programming in Python",
+                "homepage": "https://brainpy.readthedocs.io/",
                 "id": 280029226,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-13T04:29:07Z",
+                "open_issues": 4,
                 "owner": "brainpy",
                 "repo": "BrainPy",
-                "stars": 705
+                "stars": 705,
+                "topics": [
+                  "brain-dynamics-modeling",
+                  "brain-inspired-computing",
+                  "brain-simulations",
+                  "brainpy",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1930,12 +2730,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brain-inspired Cognitive Intelligence Engine (BrainCog) is a brain-inspired spiking neural network based platform for Brain-inspired Artificial Intelligence and simulating brains at multiple scales. The long term goal of BrainCog is to provide a comprehensive theory and system to decode the mechanisms and principles of human intelligence and its evolution, and develop artificial brains for brain-inspired conscious living AI in future Human-AI symbiotic Society.",
+                "homepage": "http://www.brain-cog.network/",
                 "id": 422522106,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-06T13:37:53Z",
+                "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 647
+                "stars": 647,
+                "topics": [
+                  "brain-inspired-ai",
+                  "brain-inspired-computation",
+                  "brain-simulations",
+                  "computational-neuroscience",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1946,12 +2757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CARLsim is an efficient, easy-to-use, GPU-accelerated software framework for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.",
+                "homepage": null,
                 "id": 445964927,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-11-08T12:23:03Z",
+                "open_issues": 18,
                 "owner": "UCI-CARL",
                 "repo": "CARLsim6",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1962,12 +2778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package for simulator-independent specification of neuronal network models.",
+                "homepage": null,
                 "id": 10118611,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-08T14:09:11Z",
+                "open_issues": 118,
                 "owner": "NeuralEnsemble",
                 "repo": "PyNN",
-                "stars": 310
+                "stars": 310,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1978,12 +2799,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Software Framework for Neuromorphic Computing",
+                "homepage": "https://lava-nc.org",
                 "id": 411813745,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-13T16:13:35Z",
+                "open_issues": 130,
                 "owner": "lava-nc",
                 "repo": "lava",
-                "stars": 739
+                "stars": 739,
+                "topics": [
+                  "deep-learning",
+                  "neural-networks",
+                  "neuromorphic",
+                  "neuromorphic-computing",
+                  "neuroscience",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -1994,12 +2827,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.",
+                "homepage": "https://rockpool.ai",
                 "id": 404780200,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-03T08:48:40Z",
+                "open_issues": 4,
                 "owner": "synsense",
                 "repo": "rockpool",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "deployment",
+                  "jax",
+                  "machine-learning",
+                  "neuromorphic",
+                  "pytorch",
+                  "snn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2010,12 +2855,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event datasets and transforms.",
+                "homepage": "https://tonic.readthedocs.io",
                 "id": 196472582,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T20:54:49Z",
+                "open_issues": 34,
                 "owner": "neuromorphs",
                 "repo": "tonic",
-                "stars": 294
+                "stars": 294,
+                "topics": [
+                  "augmentation",
+                  "datasets",
+                  "event-based",
+                  "neuromorphic",
+                  "spikes",
+                  "transformations"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2026,12 +2883,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "V2E: From video frames to DVS events",
+                "homepage": "https://sites.google.com/view/video2events/home",
                 "id": 190332735,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T14:39:55Z",
+                "open_issues": 23,
                 "owner": "SensorsINI",
                 "repo": "v2e",
-                "stars": 481
+                "stars": 481,
+                "topics": [
+                  "event-camera",
+                  "pytorch",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2042,12 +2908,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolbox for converting analog to spiking neural networks (ANN to SNN), and running them in a spiking neuron simulator.",
+                "homepage": null,
                 "id": 64289132,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-13T10:01:01Z",
+                "open_issues": 3,
                 "owner": "NeuromorphicProcessorProject",
                 "repo": "snn_toolbox",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "brian",
+                  "brian2",
+                  "caffe",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "keras",
+                  "lasagne",
+                  "loihi",
+                  "nest",
+                  "pynn",
+                  "pytorch",
+                  "spiking-neural-networks",
+                  "spinnaker",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2058,12 +2944,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N2D2 is an open source CAD framework for Deep Neural Network simulation and full DNN-based applications building.",
+                "homepage": null,
                 "id": 78206288,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-03T08:13:03Z",
+                "open_issues": 6,
                 "owner": "CEA-LIST",
                 "repo": "N2D2",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "deep-learning-library",
+                  "deep-neural-networks",
+                  "machine-learning",
+                  "neural-network",
+                  "spike-inference"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2074,12 +2973,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 142175535,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-10-03T23:44:00Z",
+                "open_issues": 1,
                 "owner": "sandialabs",
                 "repo": "Whetstone",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "nerl-neuromorphic",
+                  "neuromorphic",
+                  "neuromorphic-computing",
+                  "scr-2331",
+                  "snl-nerl",
+                  "snl-neuromorphic",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             }
@@ -2097,12 +3009,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spike encoding into its architecture",
+                "homepage": null,
                 "id": 1049683969,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-14T09:52:16Z",
+                "open_issues": 9,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1372
+                "stars": 1373,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2113,12 +3030,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implementation of \"SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks\"",
+                "homepage": null,
                 "id": 605839622,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-07-21T05:51:34Z",
+                "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 911
+                "stars": 911,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2129,12 +3051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICLR 2023, Spikformer: When Spiking Neural Network Meets Transformer",
+                "homepage": null,
                 "id": 543153207,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-23T08:54:58Z",
+                "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 413
+                "stars": 413,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2145,12 +3072,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical implementation of \"Spike-driven Transformer\" (NeurIPS2023)",
+                "homepage": "https://openreview.net/forum?id=9FmolyOHi5",
                 "id": 662105186,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-18T06:56:13Z",
+                "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 316
+                "stars": 316,
+                "topics": [
+                  "neuromorphic-computing",
+                  "spike-driven",
+                  "spiking-neural-network",
+                  "spiking-transformer",
+                  "transformer-based-snn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2161,12 +3099,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical implementation of \"Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection\" (ECCV2024 Best Paper Candidate)",
+                "homepage": "https://arxiv.org/abs/2407.20708",
                 "id": 827087200,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-06-30T05:52:54Z",
+                "open_issues": 10,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "neuromorphic-computing",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2177,12 +3123,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical implementation of \"Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips\" (ICLR2024)",
+                "homepage": "https://openreview.net/forum?id=1SIBN5Xyw7",
                 "id": 754146150,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-10T15:06:37Z",
+                "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "neuromorphic-computing",
+                  "neuromorphic-hardware",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2193,12 +3148,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical implementation of \"Deep Directly-Trained Spiking Neural Networks for Object Detection\" (ICCV2023)",
+                "homepage": "https://arxiv.org/abs/2307.11411",
                 "id": 668213519,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-21T10:26:20Z",
+                "open_issues": 23,
                 "owner": "BICLab",
                 "repo": "EMS-YOLO",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "spiking-neural-network",
+                  "spiking-yolo"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2209,12 +3172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Residual Learning in Spiking Neural Networks",
+                "homepage": null,
                 "id": 373857522,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2022-08-09T02:55:18Z",
+                "open_issues": 12,
                 "owner": "fangwei123456",
                 "repo": "Spike-Element-Wise-ResNet",
-                "stars": 198
+                "stars": 198,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2225,12 +3193,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical code of \"QKFormer: Hierarchical Spiking Transformer using Q-K Attention\" ",
+                "homepage": null,
                 "id": 668966689,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-25T04:20:51Z",
+                "open_issues": 8,
                 "owner": "zhouchenlin2096",
                 "repo": "QKFormer",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "3rd-generation-of-artificial-neural-networks",
+                  "brain-inspired",
+                  "energy-efficiency",
+                  "event-driven",
+                  "neuromorphic-computing",
+                  "spike",
+                  "spiking-neural-network",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2241,12 +3223,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spikingformer: A Key Foundation Model for Spiking Neural Networks (AAAI 2026)",
+                "homepage": null,
                 "id": 624667880,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-16T09:38:48Z",
+                "open_issues": 7,
                 "owner": "TheBrainLab",
                 "repo": "Spikingformer",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "3rd-generation-of-artificial-neural-networks",
+                  "binary",
+                  "brain-inspired",
+                  "deep-learning",
+                  "energy-efficiency",
+                  "neuromorphic-computing",
+                  "pytorch",
+                  "snn",
+                  "spike",
+                  "spiking-neural-networks",
+                  "spiking-transformer",
+                  "spikingjelly",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2257,12 +3258,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical implementation of \"Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training\" (IEEE T-PAMI2025)",
+                "homepage": "https://arxiv.org/pdf/2411.16061",
                 "id": 892653625,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-20T16:17:47Z",
+                "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V3",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "neuromorphic-computing",
+                  "spiking-neural-network"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2273,12 +3282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch Implementation of Spiking Transformer with Spatial-Temporal Attention (CVPR 2025)",
+                "homepage": null,
                 "id": 941758359,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-07T21:34:56Z",
+                "open_issues": 0,
                 "owner": "Intelligent-Computing-Lab-Panda",
                 "repo": "STAtten",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2289,12 +3303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for temporal efficient training",
+                "homepage": null,
                 "id": 457175690,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-16T03:36:23Z",
+                "open_issues": 3,
                 "owner": "brain-intelligence-lab",
                 "repo": "temporal_efficient_training",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2305,12 +3324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of TSSL-BP rule for Deep Spiking Neural Networks.",
+                "homepage": null,
                 "id": 239040090,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-16T22:23:42Z",
+                "open_issues": 9,
                 "owner": "stonezwr",
                 "repo": "TSSL-BP",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2321,12 +3345,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DRL with population coded spiking neural network for optimal and energy-efficient continuous control.",
+                "homepage": null,
                 "id": 304649227,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-15T02:05:07Z",
+                "open_issues": 1,
                 "owner": "combra-lab",
                 "repo": "pop-spiking-deep-rl",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "control",
+                  "deep-reinforcement-learning",
+                  "mujoco",
+                  "openai-gym",
+                  "robotics",
+                  "snn",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2337,12 +3374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper \"Optimal ANN-SNN conversion for high-accuracy and ultra-low-latency spiking neural networks\"",
+                "homepage": null,
                 "id": 685373032,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-02T06:26:47Z",
+                "open_issues": 6,
                 "owner": "putshua",
                 "repo": "ANN_SNN_QCFS",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2353,12 +3395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Neural Networks] SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation",
+                "homepage": null,
                 "id": 701694128,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-11T14:00:37Z",
+                "open_issues": 1,
                 "owner": "Lvchangze",
                 "repo": "SpikeBERT",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2369,12 +3416,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
+                "homepage": null,
                 "id": 604486210,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-24T09:49:17Z",
+                "open_issues": 3,
                 "owner": "TheBrainLab",
                 "repo": "Awesome-Spiking-Neural-Networks",
-                "stars": 823
+                "stars": 823,
+                "topics": [
+                  "3rd-generation-of-artificial-neural-networks",
+                  "awesome",
+                  "awesome-list",
+                  "binary",
+                  "biological-plausibility",
+                  "brain-inspired",
+                  "codes",
+                  "deep-learning",
+                  "energy-efficiency",
+                  "event-driven",
+                  "neuromorphic-computing",
+                  "paperlist",
+                  "papers",
+                  "snn",
+                  "spike",
+                  "spiking",
+                  "spiking-neural-network",
+                  "spikingjelly"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2385,12 +3456,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
+                "homepage": "https://axyzdong.github.io/awesome-snn-conference-paper/",
                 "id": 618259843,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-05-04T00:51:14Z",
+                "open_issues": 1,
                 "owner": "AXYZdong",
                 "repo": "awesome-snn-conference-paper",
-                "stars": 464
+                "stars": 464,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "brain-inspired-computing",
+                  "conference-paper",
+                  "neuromorphic-computing",
+                  "paper-list",
+                  "snn",
+                  "spiking-neural-network",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2401,12 +3487,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.",
+                "homepage": null,
                 "id": 477986437,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-01T08:01:29Z",
+                "open_issues": 1,
                 "owner": "coderonion",
                 "repo": "awesome-snn",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "attention",
+                  "awesome-list",
+                  "bindsnet",
+                  "brain",
+                  "braincog",
+                  "chatgpt",
+                  "event-camera",
+                  "large-language-models",
+                  "object-detection",
+                  "snn",
+                  "spike",
+                  "spiking",
+                  "spiking-neural-network",
+                  "spikingjelly",
+                  "stbp",
+                  "transformer",
+                  "yolo",
+                  "yolov11",
+                  "yolov5",
+                  "yolov8"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2417,12 +3529,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository collecting papers about neuromorphic hardware, such as ASIC and FPGA implementations of SNNs and stuff.",
+                "homepage": null,
                 "id": 622368916,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2023-11-04T09:00:51Z",
+                "open_issues": 3,
                 "owner": "open-neuromorphic",
                 "repo": "awesome-neuromorphic-hw",
-                "stars": 220
+                "stars": 220,
+                "topics": [
+                  "ai",
+                  "analog",
+                  "chip",
+                  "digital",
+                  "dnn",
+                  "fpga",
+                  "hardware",
+                  "ic",
+                  "mixed-signal",
+                  "ml",
+                  "neuromorphic",
+                  "research",
+                  "snn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2433,12 +3564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Spiking Neural Networks",
+                "homepage": null,
                 "id": 667043232,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-24T10:55:32Z",
+                "open_issues": 0,
                 "owner": "yfguo91",
                 "repo": "Awesome-Spiking-Neural-Networks",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2449,12 +3585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of materials for Spiking Neural Networks, 3rd generation of artificial neural networks.",
+                "homepage": null,
                 "id": 340770321,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-08-19T15:08:16Z",
+                "open_issues": 0,
                 "owner": "vvvityaaa",
                 "repo": "awesome-spiking-neural-networks",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2465,12 +3606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorial for surrogate gradient learning in spiking neural networks",
+                "homepage": null,
                 "id": 170391179,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-06-18T09:35:11Z",
+                "open_issues": 3,
                 "owner": "fzenke",
                 "repo": "spytorch",
-                "stars": 362
+                "stars": 362,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2481,12 +3627,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of neuromorphic software projects",
+                "homepage": "https://open-neuromorphic.org",
                 "id": 576576803,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2025-07-12T02:57:03Z",
+                "open_issues": 6,
                 "owner": "open-neuromorphic",
                 "repo": "open-neuromorphic",
-                "stars": 324
+                "stars": 324,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-network",
+                  "neuromorphic",
+                  "neuromorphic-computing",
+                  "snn"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2497,12 +3655,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source SDK to create applications leveraging event-based vision hardware equipment",
+                "homepage": "https://www.prophesee.ai/metavision-intelligence/",
                 "id": 350653342,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-05-15T06:30:03Z",
+                "open_issues": 24,
                 "owner": "prophesee-ai",
                 "repo": "openeb",
-                "stars": 299
+                "stars": 299,
+                "topics": [
+                  "camera-api",
+                  "computer-vision",
+                  "event-based",
+                  "event-based-camera",
+                  "event-camera",
+                  "neuromorphic",
+                  "neuromorphic-computing",
+                  "neuromorphic-engineering",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2513,12 +3686,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SpiNNaker implementation of the PyNN neural networking language",
+                "homepage": null,
                 "id": 20801613,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:51:19Z",
+                "open_issues": 103,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "c",
+                  "examples",
+                  "pynn",
+                  "python",
+                  "spinnaker"
+                ]
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             },
@@ -2529,12 +3713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BrainScaleS-2 via PyTorch",
+                "homepage": null,
                 "id": 251622050,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-25T18:42:01Z",
+                "open_issues": 0,
                 "owner": "electronicvisions",
                 "repo": "hxtorch",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
             }
@@ -2554,12 +3743,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.",
+                    "homepage": "https://spikingjelly.readthedocs.io",
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-28T18:37:06Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:25:08Z",
+                    "open_issues": 129,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2113
+                    "stars": 2113,
+                    "topics": [
+                      "deep-learning",
+                      "dvs",
+                      "machine-learning",
+                      "pytorch",
+                      "snn",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -2570,12 +3771,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.",
+                    "homepage": "https://spikingjelly.readthedocs.io",
                     "id": 228557692,
                     "language": "Python",
-                    "last_commit": "2026-08-28T18:37:06Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:25:08Z",
+                    "open_issues": 129,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2113
+                    "stars": 2113,
+                    "topics": [
+                      "deep-learning",
+                      "dvs",
+                      "machine-learning",
+                      "pytorch",
+                      "snn",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -2586,12 +3799,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Brain-inspired Cognitive Intelligence Engine (BrainCog) is a brain-inspired spiking neural network based platform for Brain-inspired Artificial Intelligence and simulating brains at multiple scales. The long term goal of BrainCog is to provide a comprehensive theory and system to decode the mechanisms and principles of human intelligence and its evolution, and develop artificial brains for brain-inspired conscious living AI in future Human-AI symbiotic Society.",
+                    "homepage": "http://www.brain-cog.network/",
                     "id": 422522106,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-06T13:37:53Z",
+                    "open_issues": 30,
                     "owner": "BrainCog-X",
                     "repo": "Brain-Cog",
-                    "stars": 647
+                    "stars": 647,
+                    "topics": [
+                      "brain-inspired-ai",
+                      "brain-inspired-computation",
+                      "brain-simulations",
+                      "computational-neuroscience",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -2602,12 +3826,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 647077982,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-06-06T09:07:37Z",
+                    "open_issues": 0,
                     "owner": "spikecv",
                     "repo": "spikecv",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -2625,12 +3854,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep and online learning with spiking neural networks in Python",
+                    "homepage": "https://snntorch.readthedocs.io/en/latest/",
                     "id": 299443676,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T22:17:27Z",
+                    "open_issues": 72,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2039
+                    "stars": 2039,
+                    "topics": [
+                      "machine-learning",
+                      "neural-networks",
+                      "neuron-models",
+                      "neuroscience",
+                      "python",
+                      "pytorch",
+                      "snn",
+                      "spike",
+                      "spiking",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -2648,12 +3893,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tutorial for surrogate gradient learning in spiking neural networks",
+                    "homepage": null,
                     "id": 170391179,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-06-18T09:35:11Z",
+                    "open_issues": 3,
                     "owner": "fzenke",
                     "repo": "spytorch",
-                    "stars": 362
+                    "stars": 362,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -2664,12 +3914,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA and AMD HIP.",
+                    "homepage": "http://genn-team.github.io/",
                     "id": 24633934,
                     "language": "C++",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-24T14:46:38Z",
+                    "open_issues": 45,
                     "owner": "genn-team",
                     "repo": "genn",
-                    "stars": 280
+                    "stars": 280,
+                    "topics": [
+                      "computational-neuroscience",
+                      "hacktoberfest",
+                      "nvidia-cuda",
+                      "simulation",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 },
@@ -2680,12 +3941,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Full-featured cross-platform (Linux, Windows, MacOS) desktop application for neuromorphic event cameras and silicon cochleas from all major manufacturers ",
+                    "homepage": null,
                     "id": 92194184,
                     "language": "Java",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-28T09:36:44Z",
+                    "open_issues": 2,
                     "owner": "SensorsINI",
                     "repo": "jaer",
-                    "stars": 193
+                    "stars": 193,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
                 }
@@ -2704,15 +3970,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:41.325Z",
+    "last_updated": "2026-08-29T04:49:49.192Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
+      "homepage": null,
       "id": 1306607268,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2026-08-21T10:40:32Z",
+      "open_issues": 0,
       "owner": "haoran-zha",
       "repo": "Awesome-Spiking-Neural-Networks-Hub",
-      "stars": 206
+      "stars": 206,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "brain-inspired-computing",
+        "deep-learning",
+        "event-camera",
+        "machine-learning",
+        "neural-networks",
+        "neuromorphic-computing",
+        "neuromorphic-hardware",
+        "paper-list",
+        "snn",
+        "spiking-neural-networks",
+        "spiking-transformer",
+        "surrogate-gradient"
+      ]
     },
     "original_repository_sha": "06f603384efe8d45bb06f9c0db048ccbe03531cf",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks-Hub",
