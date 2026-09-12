@@ -1607,7 +1607,7 @@
                     "open_issues": 27,
                     "owner": "synsense",
                     "repo": "sinabs",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": [
                       "machine-learning",
                       "pytorch",
@@ -2332,7 +2332,7 @@
                 "open_issues": 123,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2129,
+                "stars": 2130,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2655,7 +2655,7 @@
                 "open_issues": 226,
                 "owner": "nest",
                 "repo": "nest-simulator",
-                "stars": 666,
+                "stars": 667,
                 "topics": [
                   "cpp",
                   "nest",
@@ -2712,7 +2712,7 @@
                 "open_issues": 4,
                 "owner": "brainpy",
                 "repo": "BrainPy",
-                "stars": 707,
+                "stars": 708,
                 "topics": [
                   "brain-dynamics-modeling",
                   "brain-inspired-computing",
@@ -3752,7 +3752,7 @@
                     "open_issues": 123,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2129,
+                    "stars": 2130,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -3780,7 +3780,7 @@
                     "open_issues": 123,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2129,
+                    "stars": 2130,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:47:58.365Z",
+    "last_updated": "2026-09-12T17:18:11.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
