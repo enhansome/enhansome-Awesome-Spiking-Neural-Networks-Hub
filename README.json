@@ -2332,7 +2332,7 @@
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2133,
+                "stars": 2134,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2360,7 +2360,7 @@
                 "open_issues": 58,
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2045,
+                "stars": 2046,
                 "topics": [
                   "machine-learning",
                   "neural-networks",
@@ -2420,8 +2420,8 @@
                 "id": 120948040,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-14T16:16:15Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-16T18:10:23Z",
+                "open_issues": 9,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
                 "stars": 1700,
@@ -2571,7 +2571,7 @@
                 "id": 57382690,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-15T17:42:18Z",
+                "last_commit": "2026-09-16T15:02:58Z",
                 "open_issues": 6,
                 "owner": "ANNarchy",
                 "repo": "ANNarchy",
@@ -2596,7 +2596,7 @@
                 "open_issues": 140,
                 "owner": "nengo",
                 "repo": "nengo",
-                "stars": 947,
+                "stars": 948,
                 "topics": [
                   "nengo",
                   "neural-networks",
@@ -2622,7 +2622,7 @@
                 "open_issues": 208,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1231,
+                "stars": 1230,
                 "topics": [
                   "biological-simulations",
                   "brian",
@@ -2712,7 +2712,7 @@
                 "open_issues": 4,
                 "owner": "brainpy",
                 "repo": "BrainPy",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "brain-dynamics-modeling",
                   "brain-inspired-computing",
@@ -3422,10 +3422,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-03-24T09:49:17Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "TheBrainLab",
                 "repo": "Awesome-Spiking-Neural-Networks",
-                "stars": 831,
+                "stars": 833,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "awesome",
@@ -3465,7 +3465,7 @@
                 "open_issues": 1,
                 "owner": "AXYZdong",
                 "repo": "awesome-snn-conference-paper",
-                "stars": 468,
+                "stars": 467,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3752,7 +3752,7 @@
                     "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2133,
+                    "stars": 2134,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -3780,7 +3780,7 @@
                     "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2133,
+                    "stars": 2134,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -3863,7 +3863,7 @@
                     "open_issues": 58,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2045,
+                    "stars": 2046,
                     "topics": [
                       "machine-learning",
                       "neural-networks",
@@ -3946,8 +3946,8 @@
                     "id": 92194184,
                     "language": "Java",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-09-15T11:02:15Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-09-16T17:57:56Z",
+                    "open_issues": 1,
                     "owner": "SensorsINI",
                     "repo": "jaer",
                     "stars": 201,
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:19:05.939Z",
+    "last_updated": "2026-09-16T18:15:58.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
