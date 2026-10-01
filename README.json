@@ -1003,7 +1003,7 @@
                     "open_issues": 1,
                     "owner": "BICLab",
                     "repo": "Spike-Driven-Transformer-V3",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": [
                       "neuromorphic-computing",
                       "spiking-neural-network"
@@ -1340,7 +1340,7 @@
                 "open_issues": 10,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1385,
+                "stars": 1392,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1709,7 +1709,7 @@
                     "open_issues": 10,
                     "owner": "BICLab",
                     "repo": "SpikeYOLO",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": [
                       "neuromorphic-computing",
                       "spiking-neural-networks"
@@ -2301,10 +2301,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T12:54:47Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "NeuroBench",
                 "repo": "neurobench",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -2327,12 +2327,12 @@
                 "homepage": "https://spikingjelly.readthedocs.io",
                 "id": 228557692,
                 "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-30T10:52:16Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-01T16:28:27Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2146,
+                "stars": 2149,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2360,7 +2360,7 @@
                 "open_issues": 61,
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2059,
+                "stars": 2061,
                 "topics": [
                   "machine-learning",
                   "neural-networks",
@@ -2392,7 +2392,7 @@
                 "open_issues": 69,
                 "owner": "norse",
                 "repo": "norse",
-                "stars": 822,
+                "stars": 824,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -2618,11 +2618,11 @@
                 "id": 6884056,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T15:35:20Z",
-                "open_issues": 208,
+                "last_commit": "2026-10-01T09:31:37Z",
+                "open_issues": 213,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1239,
+                "stars": 1241,
                 "topics": [
                   "biological-simulations",
                   "brian",
@@ -2651,7 +2651,7 @@
                 "id": 33933892,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-30T08:43:16Z",
+                "last_commit": "2026-10-01T07:48:58Z",
                 "open_issues": 224,
                 "owner": "nest",
                 "repo": "nest-simulator",
@@ -2953,7 +2953,7 @@
                 "open_issues": 6,
                 "owner": "CEA-LIST",
                 "repo": "N2D2",
-                "stars": 163,
+                "stars": 162,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -3018,7 +3018,7 @@
                 "open_issues": 10,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1385,
+                "stars": 1392,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3108,7 +3108,7 @@
                 "open_issues": 10,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 258,
+                "stars": 259,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -3267,7 +3267,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V3",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-network"
@@ -3425,7 +3425,7 @@
                 "open_issues": 4,
                 "owner": "TheBrainLab",
                 "repo": "Awesome-Spiking-Neural-Networks",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "awesome",
@@ -3661,7 +3661,7 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-05-15T06:30:03Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "prophesee-ai",
                 "repo": "openeb",
                 "stars": 305,
@@ -3747,12 +3747,12 @@
                     "homepage": "https://spikingjelly.readthedocs.io",
                     "id": 228557692,
                     "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-30T10:52:16Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-01T16:28:27Z",
                     "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2146,
+                    "stars": 2149,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -3775,12 +3775,12 @@
                     "homepage": "https://spikingjelly.readthedocs.io",
                     "id": 228557692,
                     "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-30T10:52:16Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-01T16:28:27Z",
                     "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2146,
+                    "stars": 2149,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -3863,7 +3863,7 @@
                     "open_issues": 61,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2059,
+                    "stars": 2061,
                     "topics": [
                       "machine-learning",
                       "neural-networks",
@@ -3946,7 +3946,7 @@
                     "id": 92194184,
                     "language": "Java",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-09-30T18:11:06Z",
+                    "last_commit": "2026-10-01T15:54:24Z",
                     "open_issues": 0,
                     "owner": "SensorsINI",
                     "repo": "jaer",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:31:39.004Z",
+    "last_updated": "2026-10-01T19:39:00.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
