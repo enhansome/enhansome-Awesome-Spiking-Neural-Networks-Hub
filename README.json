@@ -865,7 +865,7 @@
                     "open_issues": 18,
                     "owner": "ZK-Zhou",
                     "repo": "spikformer",
-                    "stars": 416,
+                    "stars": 415,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1337,10 +1337,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-14T09:52:16Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1407,
+                "stars": 1408,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1382,7 +1382,7 @@
                 "open_issues": 5,
                 "owner": "BICLab",
                 "repo": "SpikingBrain2.0",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -2304,7 +2304,7 @@
                 "open_issues": 12,
                 "owner": "NeuroBench",
                 "repo": "neurobench",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -2357,7 +2357,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T06:46:56Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "jeshraghian",
                 "repo": "snntorch",
                 "stars": 2064,
@@ -2424,7 +2424,7 @@
                 "open_issues": 9,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
-                "stars": 1703,
+                "stars": 1704,
                 "topics": [
                   "dynamic",
                   "gpu-computing",
@@ -2572,7 +2572,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-05T07:48:09Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ANNarchy",
                 "repo": "ANNarchy",
                 "stars": 46,
@@ -2618,7 +2618,7 @@
                 "id": 6884056,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T12:55:14Z",
+                "last_commit": "2026-10-07T15:51:48Z",
                 "open_issues": 209,
                 "owner": "brian-team",
                 "repo": "brian2",
@@ -2739,7 +2739,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 657,
+                "stars": 658,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -3015,10 +3015,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-14T09:52:16Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1407,
+                "stars": 1408,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3060,7 +3060,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 416,
+                "stars": 415,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3636,7 +3636,7 @@
                 "open_issues": 8,
                 "owner": "open-neuromorphic",
                 "repo": "open-neuromorphic",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -3808,7 +3808,7 @@
                     "open_issues": 31,
                     "owner": "BrainCog-X",
                     "repo": "Brain-Cog",
-                    "stars": 657,
+                    "stars": 658,
                     "topics": [
                       "brain-inspired-ai",
                       "brain-inspired-computation",
@@ -3860,7 +3860,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-06T06:46:56Z",
-                    "open_issues": 51,
+                    "open_issues": 52,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
                     "stars": 2064,
@@ -3946,7 +3946,7 @@
                     "id": 92194184,
                     "language": "Java",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-10-06T09:04:41Z",
+                    "last_commit": "2026-10-07T19:08:47Z",
                     "open_issues": 0,
                     "owner": "SensorsINI",
                     "repo": "jaer",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:36:55.721Z",
+    "last_updated": "2026-10-07T20:02:24.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
