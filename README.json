@@ -938,7 +938,7 @@
                     "open_issues": 7,
                     "owner": "TheBrainLab",
                     "repo": "Spikingformer",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": [
                       "3rd-generation-of-artificial-neural-networks",
                       "binary",
@@ -1640,7 +1640,7 @@
                     "open_issues": 2,
                     "owner": "LynxiTech",
                     "repo": "BIDL",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1785,7 +1785,7 @@
                     "open_issues": 6,
                     "owner": "chan8972",
                     "repo": "Spike-FlowNet",
-                    "stars": 119,
+                    "stars": 120,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1873,7 +1873,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-10-10T01:08:00Z",
-                    "open_issues": 3,
+                    "open_issues": 1,
                     "owner": "BICLab",
                     "repo": "Spike2Former",
                     "stars": 44,
@@ -2304,7 +2304,7 @@
                 "open_issues": 12,
                 "owner": "NeuroBench",
                 "repo": "neurobench",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -2328,8 +2328,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T11:29:39Z",
-                "open_issues": 126,
+                "last_commit": "2026-10-11T18:24:35Z",
+                "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2158,
@@ -2360,7 +2360,7 @@
                 "open_issues": 53,
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2066,
+                "stars": 2069,
                 "topics": [
                   "machine-learning",
                   "neural-networks",
@@ -2392,7 +2392,7 @@
                 "open_issues": 69,
                 "owner": "norse",
                 "repo": "norse",
-                "stars": 823,
+                "stars": 824,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -2424,7 +2424,7 @@
                 "open_issues": 9,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
-                "stars": 1705,
+                "stars": 1706,
                 "topics": [
                   "dynamic",
                   "gpu-computing",
@@ -2596,7 +2596,7 @@
                 "open_issues": 140,
                 "owner": "nengo",
                 "repo": "nengo",
-                "stars": 951,
+                "stars": 952,
                 "topics": [
                   "nengo",
                   "neural-networks",
@@ -2619,10 +2619,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T15:39:56Z",
-                "open_issues": 208,
+                "open_issues": 209,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1241,
+                "stars": 1242,
                 "topics": [
                   "biological-simulations",
                   "brian",
@@ -2655,7 +2655,7 @@
                 "open_issues": 221,
                 "owner": "nest",
                 "repo": "nest-simulator",
-                "stars": 671,
+                "stars": 672,
                 "topics": [
                   "cpp",
                   "nest",
@@ -2685,7 +2685,7 @@
                 "open_issues": 46,
                 "owner": "genn-team",
                 "repo": "genn",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "computational-neuroscience",
                   "hacktoberfest",
@@ -2739,7 +2739,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 658,
+                "stars": 660,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2892,7 +2892,7 @@
                 "open_issues": 23,
                 "owner": "SensorsINI",
                 "repo": "v2e",
-                "stars": 491,
+                "stars": 492,
                 "topics": [
                   "event-camera",
                   "pytorch",
@@ -3232,7 +3232,7 @@
                 "open_issues": 7,
                 "owner": "TheBrainLab",
                 "repo": "Spikingformer",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "binary",
@@ -3538,7 +3538,7 @@
                 "open_issues": 3,
                 "owner": "open-neuromorphic",
                 "repo": "awesome-neuromorphic-hw",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "ai",
                   "analog",
@@ -3573,7 +3573,7 @@
                 "open_issues": 0,
                 "owner": "yfguo91",
                 "repo": "Awesome-Spiking-Neural-Networks",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3748,8 +3748,8 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T11:29:39Z",
-                    "open_issues": 126,
+                    "last_commit": "2026-10-11T18:24:35Z",
+                    "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2158,
@@ -3776,8 +3776,8 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T11:29:39Z",
-                    "open_issues": 126,
+                    "last_commit": "2026-10-11T18:24:35Z",
+                    "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2158,
@@ -3808,7 +3808,7 @@
                     "open_issues": 31,
                     "owner": "BrainCog-X",
                     "repo": "Brain-Cog",
-                    "stars": 658,
+                    "stars": 660,
                     "topics": [
                       "brain-inspired-ai",
                       "brain-inspired-computation",
@@ -3863,7 +3863,7 @@
                     "open_issues": 53,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2066,
+                    "stars": 2069,
                     "topics": [
                       "machine-learning",
                       "neural-networks",
@@ -3923,7 +3923,7 @@
                     "open_issues": 46,
                     "owner": "genn-team",
                     "repo": "genn",
-                    "stars": 283,
+                    "stars": 284,
                     "topics": [
                       "computational-neuroscience",
                       "hacktoberfest",
@@ -3970,7 +3970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:44:03.437Z",
+    "last_updated": "2026-10-11T19:03:38.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
