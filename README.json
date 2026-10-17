@@ -1721,7 +1721,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1418,
+                "stars": 1419,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -2769,7 +2769,7 @@
                 "open_issues": 4,
                 "owner": "philshiu",
                 "repo": "Drosophila_brain_model",
-                "stars": 376,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-10-12T22:10:45.438Z"
@@ -2790,7 +2790,7 @@
                 "open_issues": 0,
                 "owner": "DTB-consortium",
                 "repo": "Digital_twin_brain-open",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-10-12T22:10:45.438Z"
@@ -3040,11 +3040,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T18:37:38Z",
+                "last_commit": "2026-10-17T16:44:55Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2163,
+                "stars": 2165,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -3136,7 +3136,7 @@
                 "open_issues": 9,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
-                "stars": 1705,
+                "stars": 1706,
                 "topics": [
                   "dynamic",
                   "gpu-computing",
@@ -3754,7 +3754,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1418,
+                "stars": 1419,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -4158,7 +4158,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-06T13:24:52Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "TheBrainLab",
                 "repo": "Awesome-Spiking-Neural-Networks",
                 "stars": 846,
@@ -4201,7 +4201,7 @@
                 "open_issues": 1,
                 "owner": "AXYZdong",
                 "repo": "awesome-snn-conference-paper",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4229,7 +4229,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-10-01T08:01:29Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "coderonion",
                 "repo": "awesome-snn",
                 "stars": 239,
@@ -4271,7 +4271,7 @@
                 "language": null,
                 "license": "GPL-2.0",
                 "last_commit": "2023-11-04T09:00:51Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "open-neuromorphic",
                 "repo": "awesome-neuromorphic-hw",
                 "stars": 226,
@@ -4484,11 +4484,11 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T18:37:38Z",
+                    "last_commit": "2026-10-17T16:44:55Z",
                     "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2163,
+                    "stars": 2165,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -4512,11 +4512,11 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T18:37:38Z",
+                    "last_commit": "2026-10-17T16:44:55Z",
                     "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2163,
+                    "stars": 2165,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -4706,7 +4706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:13:14.573Z",
+    "last_updated": "2026-10-17T17:22:41.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",

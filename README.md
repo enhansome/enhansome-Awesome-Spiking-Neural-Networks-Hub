@@ -521,7 +521,7 @@ The central difficulty is that a spike is a **step function — non-differentiab
 
 > **In one breath:** the fastest-moving frontier — spiking **language models** and **multimodal** models that bring Transformer/LLM-scale capability into the event-driven, energy-efficient spiking world. (Vision spiking Transformers live in [§4.2](#42-spiking-transformers--attention).)
 
-* SpikingBrain: Spiking Brain-inspired Large Models (**TMLR 2026**) ★. \[[paper](https://arxiv.org/abs/2509.05276)]\[[code](https://github.com/BICLab/SpikingBrain-7B) ⭐ 1,418 | 🐛 11 | 🌐 Python | 📅 2026-05-14]
+* SpikingBrain: Spiking Brain-inspired Large Models (**TMLR 2026**) ★. \[[paper](https://arxiv.org/abs/2509.05276)]\[[code](https://github.com/BICLab/SpikingBrain-7B) ⭐ 1,419 | 🐛 11 | 🌐 Python | 📅 2026-05-14]
   > CAS (Li Guoqi & Bo Xu) 7B-linear / 76B-MoE spiking LLMs with adaptive spike coding — >100× TTFT speedup on 4M-token contexts, trained on domestic (MetaX) GPUs.
 * SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (**TMLR 2024**) ★. \[[paper](https://arxiv.org/abs/2302.13939)]\[[code](https://github.com/ridgerchu/SpikeGPT) ⚠️ Archived]
   > The first large generative spiking language model (up to 260M params), linearizing attention for \~20× fewer operations.
@@ -987,9 +987,9 @@ The central difficulty is that a spike is a **step function — non-differentiab
 
 > Expressivity, information-theoretic views, dynamical-systems and predictive-coding perspectives on why (and when) spikes compute well.
 
-* A Drosophila Computational Brain Model Reveals Sensorimotor Processing (**Nature 2024**). \[[paper](https://www.nature.com/articles/s41586-024-07763-9)]\[[code](https://github.com/philshiu/Drosophila_brain_model) ⭐ 376 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-09-14]
+* A Drosophila Computational Brain Model Reveals Sensorimotor Processing (**Nature 2024**). \[[paper](https://www.nature.com/articles/s41586-024-07763-9)]\[[code](https://github.com/philshiu/Drosophila_brain_model) ⭐ 378 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-09-14]
   > A Brian2 leaky integrate-and-fire model of the entire adult fly brain, wired from the connectome and predicted neurotransmitters, predicts feeding and grooming circuit activity; optogenetic and behavioural experiments confirmed many predictions.
-* Simulation and Assimilation of the Digital Human Brain (**Nature Computational Science 2024**). \[[paper](https://doi.org/10.1038/s43588-024-00731-3)]\[[code](https://github.com/DTB-consortium/Digital_twin_brain-open) ⭐ 66 | 🐛 0 | 🌐 C++ | 📅 2026-05-12]
+* Simulation and Assimilation of the Digital Human Brain (**Nature Computational Science 2024**). \[[paper](https://doi.org/10.1038/s43588-024-00731-3)]\[[code](https://github.com/DTB-consortium/Digital_twin_brain-open) ⭐ 67 | 🐛 0 | 🌐 C++ | 📅 2026-05-12]
   > The Digital Brain platform simulates MRI-constrained spiking networks at human-brain scale (up to 86 billion neurons and 47.8 trillion synapses on 14,012 GPUs) and, via assimilation, reproduces resting-state BOLD signals.
 * Automated Customization of Large-Scale Spiking Network Models to Neuronal Population Activity (**Nature Computational Science 2024**). \[[paper](https://doi.org/10.1038/s43588-024-00688-3)]\[[code](https://github.com/ShenghaoWu/SpikingNetworkOptimization) ⭐ 6 | 🐛 0 | 🌐 MATLAB | 📅 2024-09-28]
   > SNOPS automatically customizes large-scale spiking network models to reproduce population-wide covariability in neural recordings, replacing heuristic tuning and revealing previously unknown limitations of spiking models on macaque visual and prefrontal cortex data.
@@ -1072,10 +1072,10 @@ The central difficulty is that a spike is a **step function — non-differentiab
 
 | Library                                                                                                             | What it's for                                                                                                                                            | Links                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **[SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,163 \| 🐛 125 \| 🌐 Python \| 📅 2026-10-15**   | PyTorch full-stack SNN framework (data → train → deploy), fused CUDA neurons; de-facto platform — 2.0 line (Triton kernels, FlexSN) in dev since 2026-07 | [paper](https://www.science.org/doi/10.1126/sciadv.adi1480)                                           |
+| **[SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,165 \| 🐛 125 \| 🌐 Python \| 📅 2026-10-17**   | PyTorch full-stack SNN framework (data → train → deploy), fused CUDA neurons; de-facto platform — 2.0 line (Triton kernels, FlexSN) in dev since 2026-07 | [paper](https://www.science.org/doi/10.1126/sciadv.adi1480)                                           |
 | **[snnTorch](https://github.com/jeshraghian/snntorch) ⭐ 2,072 \| 🐛 58 \| 🌐 Python \| 📅 2026-10-06**              | Spiking neurons as recurrent units in PyTorch; superb tutorials — 1.0.0 stable landed 2026-06                                                            | [paper](https://arxiv.org/abs/2109.12894)                                                             |
 | **[Norse](https://github.com/norse/norse) ⭐ 825 \| 🐛 70 \| 🌐 Python \| 📅 2026-07-07**                            | Sparse, event-driven bio-inspired primitives in PyTorch                                                                                                  | —                                                                                                     |
-| **[BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,705 \| 🐛 9 \| 🌐 Python \| 📅 2026-10-14**                  | ML-oriented SNN simulation on PyTorch (STDP / RL)                                                                                                        | [paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2018.00089/full) |
+| **[BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,706 \| 🐛 9 \| 🌐 Python \| 📅 2026-10-14**                  | ML-oriented SNN simulation on PyTorch (STDP / RL)                                                                                                        | [paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2018.00089/full) |
 | **[SpykeTorch](https://github.com/miladmozafari/SpykeTorch) ⭐ 407 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2021-09-07** | Convolutional SNNs, ≤1 spike/neuron; STDP / R-STDP                                                                                                       | [paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.00625/full)                           |
 | **[Spyx](https://github.com/kmheckel/spyx) ⭐ 139 \| 🐛 9 \| 🌐 Jupyter Notebook \| 📅 2026-07-07**                  | JAX SNNs, JIT-compiled surrogate-gradient training                                                                                                       | [paper](https://arxiv.org/abs/2402.18994)                                                             |
 | **[SPAIC](https://github.com/zju-bmi-lab/SPAIC) ⭐ 104 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-07**                       | Spike-based AI computing platform (ZJU); neuroscience frontend + PyTorch backend                                                                         | —                                                                                                     |
@@ -1119,7 +1119,7 @@ The central difficulty is that a spike is a **step function — non-differentiab
 
 | Repo                                                                                                                                                                         | What                                                     |  Stars |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | :----: |
-| **[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) ⭐ 1,418 \| 🐛 11 \| 🌐 Python \| 📅 2026-05-14**                                                       | Spiking brain-inspired 7B LLM (CAS, 2025)                | \~1.3k |
+| **[BICLab/SpikingBrain-7B](https://github.com/BICLab/SpikingBrain-7B) ⭐ 1,419 \| 🐛 11 \| 🌐 Python \| 📅 2026-05-14**                                                       | Spiking brain-inspired 7B LLM (CAS, 2025)                | \~1.3k |
 | **[ridgerchu/SpikeGPT](https://github.com/ridgerchu/SpikeGPT) ⚠️ Archived**                                                                                                  | Generative pre-trained spiking language model            |  \~910 |
 | **[ZK-Zhou/spikformer](https://github.com/ZK-Zhou/spikformer) ⭐ 415 \| 🐛 18 \| 🌐 Python \| 📅 2024-01-23**                                                                 | Spikformer (ICLR 2023) — launched spiking Transformers   |  \~410 |
 | **[BICLab/Spike-Driven-Transformer](https://github.com/BICLab/Spike-Driven-Transformer) ⭐ 320 \| 🐛 4 \| 🌐 Python \| 📅 2024-03-18**                                        | Spike-driven Transformer (NeurIPS 2023)                  |  \~315 |
@@ -1141,10 +1141,10 @@ The central difficulty is that a spike is a **step function — non-differentiab
 
 | Repo                                                                                                                                             | What                                        | Stars |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | :---: |
-| **[TheBrainLab/Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) ⭐ 846 \| 🐛 4 \| 📅 2026-10-06** | Broad SNN paper list (papers, code, sites)  | \~805 |
-| **[AXYZdong/awesome-snn-conference-paper](https://github.com/AXYZdong/awesome-snn-conference-paper) ⭐ 471 \| 🐛 1 \| 🌐 HTML \| 📅 2026-10-09**  | Top-conf/journal SNN papers + code, by year | \~460 |
-| **[coderonion/awesome-snn](https://github.com/coderonion/awesome-snn) ⭐ 239 \| 🐛 1 \| 📅 2024-10-01**                                           | Collection of public SNN projects           | \~235 |
-| **[open-neuromorphic/awesome-neuromorphic-hw](https://github.com/open-neuromorphic/awesome-neuromorphic-hw) ⭐ 226 \| 🐛 3 \| 📅 2023-11-04**     | Neuromorphic-hardware papers (ASIC/FPGA)    | \~215 |
+| **[TheBrainLab/Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) ⭐ 846 \| 🐛 3 \| 📅 2026-10-06** | Broad SNN paper list (papers, code, sites)  | \~805 |
+| **[AXYZdong/awesome-snn-conference-paper](https://github.com/AXYZdong/awesome-snn-conference-paper) ⭐ 472 \| 🐛 1 \| 🌐 HTML \| 📅 2026-10-09**  | Top-conf/journal SNN papers + code, by year | \~460 |
+| **[coderonion/awesome-snn](https://github.com/coderonion/awesome-snn) ⭐ 239 \| 🐛 0 \| 📅 2024-10-01**                                           | Collection of public SNN projects           | \~235 |
+| **[open-neuromorphic/awesome-neuromorphic-hw](https://github.com/open-neuromorphic/awesome-neuromorphic-hw) ⭐ 226 \| 🐛 2 \| 📅 2023-11-04**     | Neuromorphic-hardware papers (ASIC/FPGA)    | \~215 |
 | **[yfguo91/Awesome-Spiking-Neural-Networks](https://github.com/yfguo91/Awesome-Spiking-Neural-Networks) ⭐ 150 \| 🐛 0 \| 📅 2025-03-24**         | Curated SNN resource list                   | \~150 |
 | **[vvvityaaa/awesome-spiking-neural-networks](https://github.com/vvvityaaa/awesome-spiking-neural-networks) ⭐ 70 \| 🐛 0 \| 📅 2022-08-19**      | Materials on SNNs, the "3rd generation"     |  \~70 |
 
@@ -1166,9 +1166,9 @@ The central difficulty is that a spike is a **step function — non-differentiab
 
 #### China
 
-* **Tian Yonghong (田永鸿)** — Peking University — neuromorphic vision, spike camera, SpikingJelly. \[[homepage](https://www.pkuml.org/staff/yhtian.html)]\[[scholar](https://scholar.google.com/citations?user=fn6hJx0AAAAJ)]\[[github](https://github.com/fangwei123456/spikingjelly) ⭐ 2,163 | 🐛 125 | 🌐 Python | 📅 2026-10-15]
+* **Tian Yonghong (田永鸿)** — Peking University — neuromorphic vision, spike camera, SpikingJelly. \[[homepage](https://www.pkuml.org/staff/yhtian.html)]\[[scholar](https://scholar.google.com/citations?user=fn6hJx0AAAAJ)]\[[github](https://github.com/fangwei123456/spikingjelly) ⭐ 2,165 | 🐛 125 | 🌐 Python | 📅 2026-10-17]
   > Boya Distinguished Professor and IEEE Fellow whose group develops the widely used **SpikingJelly** framework and spike-camera high-speed reconstruction. **Latest:** efficient train-from-scratch time-to-first-spike SNNs (2024).
-* **Yu Zhaofei (余肇飞)** — Peking University — SNN learning, neural coding, SpikingJelly. \[[homepage](https://www.ai.pku.edu.cn/en/info/1459/2031.htm)]\[[scholar](https://scholar.google.com/citations?user=qaUgD50AAAAJ)]\[[github](https://github.com/fangwei123456/spikingjelly) ⭐ 2,163 | 🐛 125 | 🌐 Python | 📅 2026-10-15]
+* **Yu Zhaofei (余肇飞)** — Peking University — SNN learning, neural coding, SpikingJelly. \[[homepage](https://www.ai.pku.edu.cn/en/info/1459/2031.htm)]\[[scholar](https://scholar.google.com/citations?user=qaUgD50AAAAJ)]\[[github](https://github.com/fangwei123456/spikingjelly) ⭐ 2,165 | 🐛 125 | 🌐 Python | 📅 2026-10-17]
   > Corresponding author of SpikingJelly, known for PLIF neurons and SEW-ResNet for training very deep spiking networks. **Latest:** efficient high-speed spike-camera reconstruction (AAAI 2025).
 * **Zeng Yi (曾毅)** — Institute of Automation, CAS (CASIA) — brain-inspired cognitive intelligence, brain simulation, AI ethics. \[[homepage](https://www.brain-cog.network/)]\[[github](https://github.com/BrainCog-X/Brain-Cog) ⭐ 662 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
   > Leads CASIA's Brain-inspired Cognitive Intelligence Lab and the **BrainCog** engine for brain-inspired AI and multi-scale brain simulation. **Latest:** STEP unified spiking-transformer evaluation platform (2025).
@@ -1316,4 +1316,4 @@ Released under the [MIT License](LICENSE). Curated with inspiration from the bro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
