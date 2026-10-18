@@ -1742,7 +1742,7 @@
                 "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 911,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -2769,7 +2769,7 @@
                 "open_issues": 4,
                 "owner": "philshiu",
                 "repo": "Drosophila_brain_model",
-                "stars": 378,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-10-12T22:10:45.438Z"
@@ -3044,7 +3044,7 @@
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2165,
+                "stars": 2166,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -3072,7 +3072,7 @@
                 "open_issues": 58,
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2072,
+                "stars": 2074,
                 "topics": [
                   "machine-learning",
                   "neural-networks",
@@ -3308,7 +3308,7 @@
                 "open_issues": 140,
                 "owner": "nengo",
                 "repo": "nengo",
-                "stars": 953,
+                "stars": 954,
                 "topics": [
                   "nengo",
                   "neural-networks",
@@ -3334,7 +3334,7 @@
                 "open_issues": 205,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1246,
+                "stars": 1247,
                 "topics": [
                   "biological-simulations",
                   "brian",
@@ -3364,7 +3364,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-15T15:05:35Z",
-                "open_issues": 219,
+                "open_issues": 220,
                 "owner": "nest",
                 "repo": "nest-simulator",
                 "stars": 672,
@@ -3397,7 +3397,7 @@
                 "open_issues": 44,
                 "owner": "genn-team",
                 "repo": "genn",
-                "stars": 285,
+                "stars": 287,
                 "topics": [
                   "computational-neuroscience",
                   "hacktoberfest",
@@ -3572,7 +3572,7 @@
                 "open_issues": 4,
                 "owner": "synsense",
                 "repo": "rockpool",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "deployment",
                   "jax",
@@ -3775,7 +3775,7 @@
                 "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 911,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -4232,7 +4232,7 @@
                 "open_issues": 0,
                 "owner": "coderonion",
                 "repo": "awesome-snn",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "attention",
                   "awesome-list",
@@ -4488,7 +4488,7 @@
                     "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2165,
+                    "stars": 2166,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -4516,7 +4516,7 @@
                     "open_issues": 125,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2165,
+                    "stars": 2166,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -4599,7 +4599,7 @@
                     "open_issues": 58,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2072,
+                    "stars": 2074,
                     "topics": [
                       "machine-learning",
                       "neural-networks",
@@ -4659,7 +4659,7 @@
                     "open_issues": 44,
                     "owner": "genn-team",
                     "repo": "genn",
-                    "stars": 285,
+                    "stars": 287,
                     "topics": [
                       "computational-neuroscience",
                       "hacktoberfest",
@@ -4686,7 +4686,7 @@
                     "open_issues": 0,
                     "owner": "SensorsINI",
                     "repo": "jaer",
-                    "stars": 205,
+                    "stars": 206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
@@ -4706,7 +4706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:22:41.928Z",
+    "last_updated": "2026-10-18T17:27:06.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
