@@ -930,7 +930,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-20T19:13:12Z",
-                    "open_issues": 2,
+                    "open_issues": 6,
                     "owner": "chaobrain",
                     "repo": "braintrace",
                     "stars": 23,
@@ -1136,7 +1136,7 @@
                     "open_issues": 18,
                     "owner": "ZK-Zhou",
                     "repo": "spikformer",
-                    "stars": 416,
+                    "stars": 417,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1721,7 +1721,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1424,
+                "stars": 1425,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1985,7 +1985,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-02-05T02:55:37Z",
-                    "open_issues": 28,
+                    "open_issues": 29,
                     "owner": "synsense",
                     "repo": "sinabs",
                     "stars": 127,
@@ -2210,7 +2210,7 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2025-06-30T05:52:54Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "BICLab",
                     "repo": "SpikeYOLO",
                     "stars": 259,
@@ -2769,7 +2769,7 @@
                 "open_issues": 4,
                 "owner": "philshiu",
                 "repo": "Drosophila_brain_model",
-                "stars": 388,
+                "stars": 390,
                 "topics": []
               },
               "first_seen": "2026-10-12T22:10:45.438Z"
@@ -3016,7 +3016,7 @@
                 "open_issues": 12,
                 "owner": "NeuroBench",
                 "repo": "neurobench",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3040,11 +3040,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T09:59:17Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-22T13:01:18Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2166,
+                "stars": 2170,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -3069,10 +3069,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-20T06:33:40Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2077,
+                "stars": 2078,
                 "topics": [
                   "machine-learning",
                   "neural-networks",
@@ -3104,7 +3104,7 @@
                 "open_issues": 73,
                 "owner": "norse",
                 "repo": "norse",
-                "stars": 825,
+                "stars": 826,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -3283,7 +3283,7 @@
                 "id": 57382690,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-21T10:10:48Z",
+                "last_commit": "2026-10-22T11:39:54Z",
                 "open_issues": 8,
                 "owner": "ANNarchy",
                 "repo": "ANNarchy",
@@ -3330,8 +3330,8 @@
                 "id": 6884056,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T10:29:37Z",
-                "open_issues": 203,
+                "last_commit": "2026-10-21T19:40:16Z",
+                "open_issues": 202,
                 "owner": "brian-team",
                 "repo": "brian2",
                 "stars": 1247,
@@ -3424,7 +3424,7 @@
                 "open_issues": 4,
                 "owner": "brainpy",
                 "repo": "BrainPy",
-                "stars": 717,
+                "stars": 718,
                 "topics": [
                   "brain-dynamics-modeling",
                   "brain-inspired-computing",
@@ -3569,7 +3569,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-03T08:48:40Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "synsense",
                 "repo": "rockpool",
                 "stars": 93,
@@ -3754,7 +3754,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1424,
+                "stars": 1425,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3796,7 +3796,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 416,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3841,7 +3841,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2025-06-30T05:52:54Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
                 "stars": 259,
@@ -4351,7 +4351,7 @@
                 "open_issues": 3,
                 "owner": "fzenke",
                 "repo": "spytorch",
-                "stars": 366,
+                "stars": 367,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -4400,7 +4400,7 @@
                 "open_issues": 26,
                 "owner": "prophesee-ai",
                 "repo": "openeb",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "camera-api",
                   "computer-vision",
@@ -4427,7 +4427,7 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T06:17:29Z",
+                "last_commit": "2026-10-22T15:26:04Z",
                 "open_issues": 105,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
@@ -4484,11 +4484,11 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T09:59:17Z",
-                    "open_issues": 129,
+                    "last_commit": "2026-10-22T13:01:18Z",
+                    "open_issues": 127,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2166,
+                    "stars": 2170,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -4512,11 +4512,11 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T09:59:17Z",
-                    "open_issues": 129,
+                    "last_commit": "2026-10-22T13:01:18Z",
+                    "open_issues": 127,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2166,
+                    "stars": 2170,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -4596,10 +4596,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-20T06:33:40Z",
-                    "open_issues": 57,
+                    "open_issues": 58,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2077,
+                    "stars": 2078,
                     "topics": [
                       "machine-learning",
                       "neural-networks",
@@ -4638,7 +4638,7 @@
                     "open_issues": 3,
                     "owner": "fzenke",
                     "repo": "spytorch",
-                    "stars": 366,
+                    "stars": 367,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
@@ -4706,7 +4706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:47:05.549Z",
+    "last_updated": "2026-10-22T18:40:26.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
@@ -4718,7 +4718,7 @@
       "open_issues": 0,
       "owner": "haoran-zha",
       "repo": "Awesome-Spiking-Neural-Networks-Hub",
-      "stars": 118,
+      "stars": 120,
       "topics": [
         "awesome",
         "awesome-list",
