@@ -929,8 +929,8 @@
                     "id": 781506372,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T19:13:12Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-24T17:04:52Z",
+                    "open_issues": 1,
                     "owner": "chaobrain",
                     "repo": "braintrace",
                     "stars": 23,
@@ -1024,7 +1024,7 @@
                     "open_issues": 12,
                     "owner": "fangwei123456",
                     "repo": "Spike-Element-Wise-ResNet",
-                    "stars": 200,
+                    "stars": 201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1721,7 +1721,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1742,7 +1742,7 @@
                 "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 910,
+                "stars": 911,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -2769,7 +2769,7 @@
                 "open_issues": 4,
                 "owner": "philshiu",
                 "repo": "Drosophila_brain_model",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-10-12T22:10:45.438Z"
@@ -3040,8 +3040,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T22:30:51Z",
-                "open_issues": 130,
+                "last_commit": "2026-10-24T14:30:51Z",
+                "open_issues": 131,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2170,
@@ -3101,7 +3101,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-07-07T19:57:17Z",
-                "open_issues": 73,
+                "open_issues": 79,
                 "owner": "norse",
                 "repo": "norse",
                 "stars": 827,
@@ -3132,8 +3132,8 @@
                 "id": 120948040,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T17:23:17Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-23T20:20:17Z",
+                "open_issues": 13,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
                 "stars": 1707,
@@ -3330,11 +3330,11 @@
                 "id": 6884056,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T18:24:12Z",
-                "open_issues": 204,
+                "last_commit": "2026-10-23T18:47:00Z",
+                "open_issues": 205,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1247,
+                "stars": 1249,
                 "topics": [
                   "biological-simulations",
                   "brian",
@@ -3420,7 +3420,7 @@
                 "id": 280029226,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-20T13:30:49Z",
+                "last_commit": "2026-10-24T16:20:56Z",
                 "open_issues": 4,
                 "owner": "brainpy",
                 "repo": "BrainPy",
@@ -3569,7 +3569,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-03T08:48:40Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "synsense",
                 "repo": "rockpool",
                 "stars": 93,
@@ -3754,7 +3754,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikingBrain-7B",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3775,7 +3775,7 @@
                 "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 910,
+                "stars": 911,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3917,7 +3917,7 @@
                 "open_issues": 12,
                 "owner": "fangwei123456",
                 "repo": "Spike-Element-Wise-ResNet",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -4232,7 +4232,7 @@
                 "open_issues": 0,
                 "owner": "coderonion",
                 "repo": "awesome-snn",
-                "stars": 240,
+                "stars": 239,
                 "topics": [
                   "attention",
                   "awesome-list",
@@ -4484,8 +4484,8 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T22:30:51Z",
-                    "open_issues": 130,
+                    "last_commit": "2026-10-24T14:30:51Z",
+                    "open_issues": 131,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2170,
@@ -4512,8 +4512,8 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T22:30:51Z",
-                    "open_issues": 130,
+                    "last_commit": "2026-10-24T14:30:51Z",
+                    "open_issues": 131,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2170,
@@ -4682,7 +4682,7 @@
                     "id": 92194184,
                     "language": "Java",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-10-22T19:26:13Z",
+                    "last_commit": "2026-10-24T16:35:44Z",
                     "open_issues": 0,
                     "owner": "SensorsINI",
                     "repo": "jaer",
@@ -4706,7 +4706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:31:57.010Z",
+    "last_updated": "2026-10-24T17:30:05.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
