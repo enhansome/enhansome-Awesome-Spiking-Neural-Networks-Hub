@@ -929,8 +929,8 @@
                     "id": 781506372,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-01T13:55:23Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-11-02T12:48:18Z",
+                    "open_issues": 18,
                     "owner": "chaobrain",
                     "repo": "braintrace",
                     "stars": 23,
@@ -1184,7 +1184,7 @@
                     "open_issues": 1,
                     "owner": "BICLab",
                     "repo": "Spike-Driven-Transformer-V2",
-                    "stars": 235,
+                    "stars": 236,
                     "topics": [
                       "neuromorphic-computing",
                       "neuromorphic-hardware",
@@ -2091,7 +2091,7 @@
                     "open_issues": 0,
                     "owner": "Daniel-chen-hku",
                     "repo": "event_driven_oect",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-10-12T22:10:45.438Z"
@@ -2213,7 +2213,7 @@
                     "open_issues": 11,
                     "owner": "BICLab",
                     "repo": "SpikeYOLO",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": [
                       "neuromorphic-computing",
                       "spiking-neural-networks"
@@ -3012,8 +3012,8 @@
                 "id": 629601690,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T12:54:47Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-02T12:25:53Z",
+                "open_issues": 11,
                 "owner": "NeuroBench",
                 "repo": "neurobench",
                 "stars": 143,
@@ -3101,7 +3101,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-07-07T19:57:17Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "norse",
                 "repo": "norse",
                 "stars": 827,
@@ -3132,7 +3132,7 @@
                 "id": 120948040,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-29T22:50:34Z",
+                "last_commit": "2026-11-02T18:07:56Z",
                 "open_issues": 9,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
@@ -3283,7 +3283,7 @@
                 "id": 57382690,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-30T16:48:59Z",
+                "last_commit": "2026-11-02T09:46:26Z",
                 "open_issues": 8,
                 "owner": "ANNarchy",
                 "repo": "ANNarchy",
@@ -3363,8 +3363,8 @@
                 "id": 33933892,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-30T13:58:34Z",
-                "open_issues": 222,
+                "last_commit": "2026-11-02T18:09:56Z",
+                "open_issues": 220,
                 "owner": "nest",
                 "repo": "nest-simulator",
                 "stars": 674,
@@ -3544,11 +3544,11 @@
                 "id": 661110494,
                 "language": "Jupyter Notebook",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-28T06:57:21Z",
+                "last_commit": "2026-11-02T17:49:47Z",
                 "open_issues": 22,
                 "owner": "neuromorphs",
                 "repo": "NIR",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "machine-learning",
                   "neuromorphic"
@@ -3600,7 +3600,7 @@
                 "open_issues": 36,
                 "owner": "neuromorphs",
                 "repo": "tonic",
-                "stars": 298,
+                "stars": 300,
                 "topics": [
                   "augmentation",
                   "datasets",
@@ -3628,7 +3628,7 @@
                 "open_issues": 23,
                 "owner": "SensorsINI",
                 "repo": "v2e",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "event-camera",
                   "pytorch",
@@ -3844,7 +3844,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -3868,7 +3868,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -4161,7 +4161,7 @@
                 "open_issues": 3,
                 "owner": "TheBrainLab",
                 "repo": "Awesome-Spiking-Neural-Networks",
-                "stars": 851,
+                "stars": 852,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "awesome",
@@ -4372,7 +4372,7 @@
                 "open_issues": 8,
                 "owner": "open-neuromorphic",
                 "repo": "open-neuromorphic",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -4428,7 +4428,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T07:02:18Z",
-                "open_issues": 103,
+                "open_issues": 101,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 122,
@@ -4682,7 +4682,7 @@
                     "id": 92194184,
                     "language": "Java",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-11-01T11:51:12Z",
+                    "last_commit": "2026-11-02T20:56:27Z",
                     "open_issues": 0,
                     "owner": "SensorsINI",
                     "repo": "jaer",
@@ -4706,7 +4706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:00:19.018Z",
+    "last_updated": "2026-11-02T22:49:41.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
