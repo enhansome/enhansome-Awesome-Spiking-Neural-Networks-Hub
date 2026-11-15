@@ -1088,13 +1088,13 @@ The central difficulty is that a spike is a **step function — non-differentiab
 | Library                                                                                                                                                                                  | What it's for                                                             | Links                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | **[Nengo](https://github.com/nengo/nengo) ⭐ 960 \| 🐛 140 \| 🌐 Python \| 📅 2026-08-02** / **[NengoDL](https://github.com/nengo/nengo-dl) ⭐ 96 \| 🐛 32 \| 🌐 Python \| 📅 2026-08-02** | Large-scale functional brain models (NEF); backend-agnostic, TF-trainable | [paper](https://www.frontiersin.org/articles/10.3389/fninf.2013.00048/full) |
-| **[Brian2](https://github.com/brian-team/brian2) ⭐ 1,258 \| 🐛 221 \| 🌐 Python \| 📅 2026-11-12**                                                                                       | Equation-based simulator with runtime code generation                     | [paper](https://elifesciences.org/articles/47314)                           |
+| **[Brian2](https://github.com/brian-team/brian2) ⭐ 1,258 \| 🐛 222 \| 🌐 Python \| 📅 2026-11-12**                                                                                       | Equation-based simulator with runtime code generation                     | [paper](https://elifesciences.org/articles/47314)                           |
 | **[NEST](https://github.com/nest/nest-simulator) ⭐ 678 \| 🐛 225 \| 🌐 C++ \| 📅 2026-11-11**                                                                                            | Large heterogeneous spiking point-neuron nets, laptop → supercomputer     | —                                                                           |
 | **[GeNN](https://github.com/genn-team/genn) ⭐ 287 \| 🐛 45 \| 🌐 C++ \| 📅 2026-11-09**                                                                                                  | GPU code-generation SNN simulator (CUDA / HIP)                            | [paper](https://www.nature.com/articles/srep18854)                          |
 | **[BrainPy](https://github.com/brainpy/BrainPy) ⭐ 721 \| 🐛 4 \| 🌐 Python \| 📅 2026-10-25**                                                                                            | JAX brain-dynamics programming (spiking / rate / ODE-SDE)                 | [paper](https://elifesciences.org/articles/86365)                           |
 | **[BrainCog](https://github.com/BrainCog-X/Brain-Cog) ⭐ 675 \| 🐛 31 \| 🌐 Python \| 📅 2025-11-06**                                                                                     | SNN brain-inspired cognitive-intelligence engine (CAS)                    | [paper](https://arxiv.org/abs/2207.08533)                                   |
 | **[CARLsim](https://github.com/UCI-CARL/CARLsim6) ⭐ 60 \| 🐛 19 \| 🌐 C++ \| 📅 2025-11-08**                                                                                             | C++/CUDA large-scale biologically-detailed SNN sim + online learning      | [paper](https://ieeexplore.ieee.org/document/9892644/)                      |
-| **[PyNN](https://github.com/NeuralEnsemble/PyNN) ⭐ 315 \| 🐛 118 \| 🌐 Python \| 📅 2026-11-14**                                                                                         | Simulator-independent Python API (NEST / NEURON / Brian / SpiNNaker)      | [paper](https://doi.org/10.3389/neuro.11.011.2008)                          |
+| **[PyNN](https://github.com/NeuralEnsemble/PyNN) ⭐ 315 \| 🐛 118 \| 🌐 Python \| 📅 2026-11-15**                                                                                         | Simulator-independent Python API (NEST / NEURON / Brian / SpiNNaker)      | [paper](https://doi.org/10.3389/neuro.11.011.2008)                          |
 
 **Neuromorphic-Hardware Deployment & Data Tooling**
 
@@ -1141,7 +1141,7 @@ The central difficulty is that a spike is a **step function — non-differentiab
 
 | Repo                                                                                                                                             | What                                        | Stars |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | :---: |
-| **[TheBrainLab/Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) ⭐ 854 \| 🐛 3 \| 📅 2026-11-05** | Broad SNN paper list (papers, code, sites)  | \~805 |
+| **[TheBrainLab/Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) ⭐ 855 \| 🐛 3 \| 📅 2026-11-05** | Broad SNN paper list (papers, code, sites)  | \~805 |
 | **[AXYZdong/awesome-snn-conference-paper](https://github.com/AXYZdong/awesome-snn-conference-paper) ⭐ 474 \| 🐛 1 \| 🌐 HTML \| 📅 2026-10-09**  | Top-conf/journal SNN papers + code, by year | \~460 |
 | **[coderonion/awesome-snn](https://github.com/coderonion/awesome-snn) ⭐ 241 \| 🐛 0 \| 📅 2024-10-01**                                           | Collection of public SNN projects           | \~235 |
 | **[open-neuromorphic/awesome-neuromorphic-hw](https://github.com/open-neuromorphic/awesome-neuromorphic-hw) ⭐ 226 \| 🐛 2 \| 📅 2023-11-04**     | Neuromorphic-hardware papers (ASIC/FPGA)    | \~215 |
@@ -1154,7 +1154,7 @@ The central difficulty is that a spike is a **step function — non-differentiab
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | :---: |
 | **[fzenke/spytorch](https://github.com/fzenke/spytorch) ⭐ 369 \| 🐛 3 \| 🌐 Jupyter Notebook \| 📅 2026-06-18**                    | The classic surrogate-gradient learning tutorial    | \~360 |
 | **[open-neuromorphic/open-neuromorphic](https://github.com/open-neuromorphic/open-neuromorphic) ⭐ 333 \| 🐛 8 \| 📅 2025-07-12**   | Global community hub for the neuromorphic ecosystem | \~315 |
-| **[prophesee-ai/openeb](https://github.com/prophesee-ai/openeb) ⭐ 309 \| 🐛 26 \| 🌐 C++ \| 📅 2026-05-15**                        | Open SDK for event-based vision hardware            | \~295 |
+| **[prophesee-ai/openeb](https://github.com/prophesee-ai/openeb) ⭐ 310 \| 🐛 26 \| 🌐 C++ \| 📅 2026-05-15**                        | Open SDK for event-based vision hardware            | \~295 |
 | **[SpiNNakerManchester/sPyNNaker](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 122 \| 🐛 92 \| 🌐 Python \| 📅 2026-11-10** | PyNN on the million-core SpiNNaker machine          | \~117 |
 | **[electronicvisions/hxtorch](https://github.com/electronicvisions/hxtorch) ⭐ 19 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-12**           | PyTorch interface to BrainScaleS-2 analog hardware  |  \~17 |
 
@@ -1218,7 +1218,7 @@ The central difficulty is that a spike is a **step function — non-differentiab
   > Pioneer of surrogate-gradient training — author of SuperSpike and the widely taught SpyTorch tutorials. **Latest:** prospective neurons for teaching-signal synchronization in deep nets (2025).
 * **Thomas Nowotny** — University of Sussex — GPU-accelerated SNN simulation. \[[homepage](https://profiles.sussex.ac.uk/p206151-thomas-nowotny)]\[[github](https://github.com/genn-team/genn) ⭐ 287 | 🐛 45 | 🌐 C++ | 📅 2026-11-09]
   > Leads development of **GeNN**, a widely used GPU-based spiking-network simulator (with James Knight). **Latest:** structural-plasticity framework for GPU-accelerated sparse SNNs (2025).
-* **Tobi Delbruck** — Institute of Neuroinformatics, UZH & ETH Zurich — event cameras (DVS), event-driven vision. \[[homepage](https://sensors.ini.ch/people/tobi-delbruck)]\[[github](https://github.com/SensorsINI/jaer) ⭐ 208 | 🐛 0 | 🌐 Java | 📅 2026-11-11]
+* **Tobi Delbruck** — Institute of Neuroinformatics, UZH & ETH Zurich — event cameras (DVS), event-driven vision. \[[homepage](https://sensors.ini.ch/people/tobi-delbruck)]\[[github](https://github.com/SensorsINI/jaer) ⭐ 208 | 🐛 0 | 🌐 Java | 📅 2026-11-15]
   > Co-inventor of the Dynamic Vision Sensor (DVS) event camera and creator of the open-source jAER software. **Latest:** physically realistic, efficient DVS pixel model (2025).
 * **Giacomo Indiveri** — Institute of Neuroinformatics, UZH & ETH Zurich — mixed-signal neuromorphic circuits, DYNAP processors. \[[homepage](https://www.ini.uzh.ch/en)]\[[scholar](https://scholar.google.com/citations?user=kdHjCAMAAAAJ)]
   > Director of INI; pioneering subthreshold analog neuromorphic circuits and the DYNAP family of spiking processors. **Latest:** mixed-signal on-chip feedback-control optimizer for SNNs (2026).
@@ -1316,4 +1316,4 @@ Released under the [MIT License](LICENSE). Curated with inspiration from the bro
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
