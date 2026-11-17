@@ -822,7 +822,7 @@
                     "open_issues": 1,
                     "owner": "miladmozafari",
                     "repo": "SpykeTorch",
-                    "stars": 408,
+                    "stars": 407,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:41.325Z"
@@ -1157,7 +1157,7 @@
                     "open_issues": 4,
                     "owner": "BICLab",
                     "repo": "Spike-Driven-Transformer",
-                    "stars": 320,
+                    "stars": 321,
                     "topics": [
                       "neuromorphic-computing",
                       "spike-driven",
@@ -1209,7 +1209,7 @@
                     "open_issues": 7,
                     "owner": "TheBrainLab",
                     "repo": "Spikingformer",
-                    "stars": 155,
+                    "stars": 156,
                     "topics": [
                       "3rd-generation-of-artificial-neural-networks",
                       "binary",
@@ -1763,7 +1763,7 @@
                 "open_issues": 6,
                 "owner": "BICLab",
                 "repo": "SpikingBrain2.0",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3016,7 +3016,7 @@
                 "open_issues": 10,
                 "owner": "NeuroBench",
                 "repo": "neurobench",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3041,7 +3041,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T02:50:21Z",
-                "open_issues": 126,
+                "open_issues": 131,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2186,
@@ -3069,10 +3069,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-30T17:51:56Z",
-                "open_issues": 67,
+                "open_issues": 75,
                 "owner": "jeshraghian",
                 "repo": "snntorch",
-                "stars": 2102,
+                "stars": 2103,
                 "topics": [
                   "machine-learning",
                   "neural-networks",
@@ -3169,7 +3169,7 @@
                 "open_issues": 1,
                 "owner": "miladmozafari",
                 "repo": "SpykeTorch",
-                "stars": 408,
+                "stars": 407,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -3283,7 +3283,7 @@
                 "id": 57382690,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-16T12:41:08Z",
+                "last_commit": "2026-11-17T06:45:53Z",
                 "open_issues": 10,
                 "owner": "ANNarchy",
                 "repo": "ANNarchy",
@@ -3331,7 +3331,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-16T09:17:08Z",
-                "open_issues": 227,
+                "open_issues": 225,
                 "owner": "brian-team",
                 "repo": "brian2",
                 "stars": 1259,
@@ -3496,7 +3496,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-16T13:08:09Z",
-                "open_issues": 118,
+                "open_issues": 124,
                 "owner": "NeuralEnsemble",
                 "repo": "PyNN",
                 "stars": 315,
@@ -3568,8 +3568,8 @@
                 "id": 404780200,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T01:36:21Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-17T08:09:11Z",
+                "open_issues": 5,
                 "owner": "synsense",
                 "repo": "rockpool",
                 "stars": 93,
@@ -3624,7 +3624,7 @@
                 "id": 190332735,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T21:14:39Z",
+                "last_commit": "2026-11-17T11:51:23Z",
                 "open_issues": 23,
                 "owner": "SensorsINI",
                 "repo": "v2e",
@@ -3817,7 +3817,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -3968,7 +3968,7 @@
                 "open_issues": 7,
                 "owner": "TheBrainLab",
                 "repo": "Spikingformer",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "binary",
@@ -4161,7 +4161,7 @@
                 "open_issues": 3,
                 "owner": "TheBrainLab",
                 "repo": "Awesome-Spiking-Neural-Networks",
-                "stars": 858,
+                "stars": 859,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "awesome",
@@ -4201,7 +4201,7 @@
                 "open_issues": 1,
                 "owner": "AXYZdong",
                 "repo": "awesome-snn-conference-paper",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4400,7 +4400,7 @@
                 "open_issues": 26,
                 "owner": "prophesee-ai",
                 "repo": "openeb",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "camera-api",
                   "computer-vision",
@@ -4454,7 +4454,7 @@
                 "id": 251622050,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-12T14:12:52Z",
+                "last_commit": "2026-11-17T10:06:06Z",
                 "open_issues": 0,
                 "owner": "electronicvisions",
                 "repo": "hxtorch",
@@ -4485,7 +4485,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-16T02:50:21Z",
-                    "open_issues": 126,
+                    "open_issues": 131,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2186,
@@ -4513,7 +4513,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-16T02:50:21Z",
-                    "open_issues": 126,
+                    "open_issues": 131,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
                     "stars": 2186,
@@ -4596,10 +4596,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-30T17:51:56Z",
-                    "open_issues": 67,
+                    "open_issues": 75,
                     "owner": "jeshraghian",
                     "repo": "snntorch",
-                    "stars": 2102,
+                    "stars": 2103,
                     "topics": [
                       "machine-learning",
                       "neural-networks",
@@ -4706,7 +4706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:26:59.627Z",
+    "last_updated": "2026-11-17T22:30:29.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
