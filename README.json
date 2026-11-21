@@ -929,8 +929,8 @@
                     "id": 781506372,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T14:33:58Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-11-21T08:47:16Z",
+                    "open_issues": 18,
                     "owner": "chaobrain",
                     "repo": "braintrace",
                     "stars": 24,
@@ -1763,7 +1763,7 @@
                 "open_issues": 6,
                 "owner": "BICLab",
                 "repo": "SpikingBrain2.0",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:41.325Z"
@@ -2769,7 +2769,7 @@
                 "open_issues": 4,
                 "owner": "philshiu",
                 "repo": "Drosophila_brain_model",
-                "stars": 416,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-10-12T22:10:45.438Z"
@@ -2923,7 +2923,7 @@
                 "open_issues": 5,
                 "owner": "prophesee-ai",
                 "repo": "prophesee-automotive-dataset-toolbox",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "automotive",
                   "autonomous-driving",
@@ -2956,7 +2956,7 @@
                 "open_issues": 5,
                 "owner": "prophesee-ai",
                 "repo": "prophesee-automotive-dataset-toolbox",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "automotive",
                   "autonomous-driving",
@@ -3040,11 +3040,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T14:02:29Z",
-                "open_issues": 130,
+                "last_commit": "2026-11-21T19:09:14Z",
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2187,
+                "stars": 2188,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -3334,7 +3334,7 @@
                 "open_issues": 233,
                 "owner": "brian-team",
                 "repo": "brian2",
-                "stars": 1259,
+                "stars": 1260,
                 "topics": [
                   "biological-simulations",
                   "brian",
@@ -3364,7 +3364,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-20T12:25:35Z",
-                "open_issues": 223,
+                "open_issues": 224,
                 "owner": "nest",
                 "repo": "nest-simulator",
                 "stars": 678,
@@ -3394,7 +3394,7 @@
                 "language": "C++",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-09T16:46:17Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "genn-team",
                 "repo": "genn",
                 "stars": 287,
@@ -3451,7 +3451,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 675,
+                "stars": 676,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -3548,7 +3548,7 @@
                 "open_issues": 25,
                 "owner": "neuromorphs",
                 "repo": "NIR",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "machine-learning",
                   "neuromorphic"
@@ -3624,11 +3624,11 @@
                 "id": 190332735,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T11:42:34Z",
+                "last_commit": "2026-11-21T16:12:42Z",
                 "open_issues": 23,
                 "owner": "SensorsINI",
                 "repo": "v2e",
-                "stars": 503,
+                "stars": 504,
                 "topics": [
                   "event-camera",
                   "pytorch",
@@ -3689,7 +3689,7 @@
                 "open_issues": 6,
                 "owner": "CEA-LIST",
                 "repo": "N2D2",
-                "stars": 162,
+                "stars": 161,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -4484,11 +4484,11 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T14:02:29Z",
-                    "open_issues": 130,
+                    "last_commit": "2026-11-21T19:09:14Z",
+                    "open_issues": 129,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2187,
+                    "stars": 2188,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -4512,11 +4512,11 @@
                     "id": 228557692,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T14:02:29Z",
-                    "open_issues": 130,
+                    "last_commit": "2026-11-21T19:09:14Z",
+                    "open_issues": 129,
                     "owner": "fangwei123456",
                     "repo": "spikingjelly",
-                    "stars": 2187,
+                    "stars": 2188,
                     "topics": [
                       "deep-learning",
                       "dvs",
@@ -4544,7 +4544,7 @@
                     "open_issues": 31,
                     "owner": "BrainCog-X",
                     "repo": "Brain-Cog",
-                    "stars": 675,
+                    "stars": 676,
                     "topics": [
                       "brain-inspired-ai",
                       "brain-inspired-computation",
@@ -4656,7 +4656,7 @@
                     "language": "C++",
                     "license": "LGPL-2.1",
                     "last_commit": "2026-11-09T16:46:17Z",
-                    "open_issues": 45,
+                    "open_issues": 46,
                     "owner": "genn-team",
                     "repo": "genn",
                     "stars": 287,
@@ -4706,7 +4706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:53:28.488Z",
+    "last_updated": "2026-11-21T20:36:36.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
